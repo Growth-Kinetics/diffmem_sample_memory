@@ -6,7 +6,7 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 *   **[Core Concept]** A single, large building presenting two entirely different faces to the world, physically connecting a respectable residential square with a dingy commercial by-street.
     ↳ **Front Façade:** A handsome, wealthy-looking townhome, occupied entirely by Dr. Jekyll's household.
     ↳ **Rear Façade:** A "sinister block of building" with a door, referred to as the "old dissecting room" or "laboratory," used exclusively by Mr. Hyde.
-*   **[History]** The property was purchased by Dr. Jekyll from the heirs of a celebrated surgeon. Jekyll, whose interests were "rather chemical than anatomical," repurposed the block at the rear of the garden (formerly dissecting rooms) into his personal laboratory.
+*   **[History]** The property was purchased by Dr. Jekyll from the heirs of the celebrated surgeon, Dr. Denman. Jekyll, whose interests were "rather chemical than anatomical," repurposed the block at the rear of the garden (formerly dissecting rooms) into his personal laboratory.
 *   **[Symbolism]** The house physically manifests a separation between the public, respectable life of Dr. Jekyll and the secret, sordid activities of Mr. Hyde.
 /END 🏛️ **Architectural Overview & Duality**
 
@@ -32,13 +32,14 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 
 /START
 ### 🔬 **Laboratory & Cabinet Interior** [Strength: Medium]
-*   **[Access Route]** Can be reached from the main house by passing through the kitchen offices and crossing a yard (formerly a garden). This was the route Mr. Utterson was taken on his first visit to this part of the house.
+*   **[Access Route]** Can be reached from the main house by passing through the kitchen offices and crossing a yard to the "old Dr. Denman’s surgical theatre," from which Jekyll's private cabinet is entered. This was the route both Utterson and Lanyon (on separate occasions) were guided through.
 *   **[Laboratory Theatre]**
     ↳ **Description:** A "dingy, windowless structure" that was once a surgical theatre for students. Now it lies "gaunt and silent," with tables laden with chemical apparatus, the floor littered with crates and packing straw.
     ↳ **Lighting:** Natural light enters dimly through a "foggy cupola."
 *   **[The Doctor's Cabinet]**
     ↳ **Access:** Reached via a flight of stairs at the far end of the theatre, through a door covered in red baize.
-    ↳ **Description:** A large room furnished with "glass presses," a cheval-glass (full-length mirror), and a business table. A fire burns in the grate.
+    ↳ **Description:** A large room furnished with "glass presses" (one specifically marked 'E'), a cheval-glass (full-length mirror), and a business table. A fire burns in the grate.
+    ↳ **Key Contents (Retrieved by Lanyon):** On Jekyll's urgent request, Dr. Lanyon had the cabinet's lock picked and retrieved a specific drawer from the press marked 'E'. This drawer contained the crucial ingredients for the transformation potion: powders (a white crystalline salt), a phial of blood-red tincture, and Jekyll's personal record book of his experiments, which noted successes ("double") and failures ("total failure!!!").
     ↳ **View:** Three dusty windows, barred with iron, look out onto the court. The court itself is described as "very cool and a little damp, and full of premature twilight." During the "Incident at the Window," the middle of these three windows was half-open.
     ↳ **Significance:** This is Jekyll's private study within the laboratory complex. It is where Utterson finds him "deathly sick" after the Carew murder and suspects the "Hyde" letter was written. During his final period of seclusion, this room becomes his prison; Poole reports that Jekyll confines himself to it entirely, sometimes even sleeping there.
     ↳ **Final State & Discovery:** The cabinet becomes the site of the story's climax. After hearing a changed voice (identified as Hyde's), strange pacing, and reports of weeping, Utterson and Poole break down the red baize door with an axe. Inside, they find a strangely peaceful scene: a fire burning, a kettle singing, and tea things laid out. In the middle of the room lies the body of Edward Hyde, who has died by suicide, dressed in Jekyll's oversized clothes. They also find a new will leaving everything to Utterson, a pious book of Jekyll's annotated with blasphemies, and Jekyll's final confession.
@@ -60,10 +61,13 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 *   **[Atmospheric Note]** Despite the hall's comfort, Utterson feels a "shudder in his blood" and reads "a menace in the flickering of the firelight" after his encounter with Hyde, tainting the pleasant space with a sense of dread.
 *   **[The Incident at the Window]** On a Sunday walk, Mr. Utterson and Mr. Enfield stop in the court behind the laboratory. They see Dr. Jekyll at the middle window of his cabinet, looking like a "disconsolate prisoner." After a brief, sad exchange where Jekyll refuses to go out, his face is suddenly overcome with "abject terror and despair," and the window is slammed shut, horrifying the two onlookers.
 
+
+*   **[Lanyon's Mission]** Following an urgent, registered letter from Jekyll (written from a "strange place"), Dr. Lanyon is instructed to go to Jekyll's house. There, he meets Poole, a locksmith, and a carpenter. After two hours of work, they force open the door to the cabinet. Lanyon, acting alone, retrieves a specific drawer from a press (marked 'E') containing chemicals and a notebook, and takes it back to his own home to await Jekyll's messenger (Hyde). This event demonstrates that the cabinet was breached prior to the final night, but under Jekyll's own remote instruction.
+
 *   **[The Last Night]** Driven by a week of terror, Poole summons Mr. Utterson to the house. The staff are huddled in the hall, and Poole reveals his belief that Jekyll has been murdered and his killer is in the cabinet. They hear strange pacing, weeping, and a voice not Jekyll's. After stationing servants to guard the laboratory's street door, Utterson and Poole force their way into the cabinet with an axe. They discover the body of Edward Hyde, dead by suicide, and documents from Jekyll that promise to explain the mystery. A search reveals no trace of Dr. Jekyll in the building.
 /END 🗺️ **Associated Events & Observations**
 
 {"id":"dr_jekylls_residence","type":"location","keywords":["jekyll","house","residence","laboratory","dissecting room","hyde","square","by-street","poole","dual","door"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's House","The Laboratory"],"type":"location","role":"Building embodying Jekyll's dual nature.","strength":"Medium","hard_cues":["Jekyll","Hyde","laboratory","cabinet","Poole","red baize door","by-street"],"soft_cues":["Respectable facade, sinister rear","architectural duality"],"emotional_cues":["abject terror","dread","sinister"],"related_entities":["dr_jekyll","mr_hyde","mr_utterson","poole"],"file":"memories/contexts/dr_jekylls_residence.md"}
+{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's House","The Laboratory"],"type":"location","role":"Physical manifestation of the Jekyll/Hyde duality","strength":"High","hard_cues":["laboratory","cabinet","by-street","Poole","red baize door","Utterson"],"soft_cues":["respectable facade, sinister rear","shattered domestic peace","prison-like cabinet"],"emotional_cues":["abject terror","dreadful expectation"],"related_entities":["dr_jekyll","mr_hyde","mr_utterson","dr_lanyon","poole"],"file":"memories/contexts/dr_jekylls_residence.md"}

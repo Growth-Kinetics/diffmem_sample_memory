@@ -6,23 +6,32 @@ This file serves as the central entity for Dr. Henry Jekyll. It establishes his 
 *   **[Name]** Dr. Henry Jekyll | **[Titles]** M.D., D.C.L., L.L.D., F.R.S. | **[Key Roles]** Doctor, Scientist, Friend.
     ↳ **Professional Standing:** A wealthy, successful, and highly credentialed doctor residing in the "citadel of medicine," Cavendish Square.
     ↳ **Physical & Personal Traits:** A large, well-made, smooth-faced man of fifty. Described as having "every mark of capacity and kindness" and cherishing a "sincere and warm affection" for friends like Mr. Utterson.
-    ↳ **Inferred Traits:** Secretive and scientifically ambitious. His final period of seclusion culminates in his disappearance. During this time, the person in his cabinet (Hyde) is heard weeping "like a woman or a lost soul." After the door is broken down, Jekyll is missing, but a new will is found leaving his fortune to Utterson. A pious book is discovered annotated with "startling blasphemies" in Jekyll's hand. His final letter to Utterson confirms his impending "disappearance" and instructs him to read Lanyon's narrative, followed by Jekyll's own full confession.
+    ↳ **Confirmed Duality:** Secretive and scientifically ambitious, Jekyll created a potion to separate his good and evil natures, transforming into the malevolent Edward Hyde. Lanyon's narrative provides an eyewitness account of this transformation. His final "disappearance" was an involuntary, irreversible transformation into Hyde, who then committed suicide. The "startling blasphemies" found in his pious book were likely written by Hyde. His final letter to Utterson confirms his fate and directs Utterson to Lanyon's account and his own full confession to learn the truth.
     ↳ **Past Behavior:** Remembered by friends as having been "wild when he was young." Mr. Utterson speculates his current predicament may be tied to an "old sin" or "concealed disgrace."
 /END 🌟 **Core Identity Mapping**
 
 /START
 ### 🔗 **Relationship Dynamics** [Strength: High]
-*   **Mr. Edward Hyde:** [Status: Deceased (Suicide)] Found dead in Jekyll's cabinet from self-administered poison, wearing Jekyll's oversized clothes. His voice was heard from within the cabinet, and Poole identified a masked figure he saw as Hyde. Utterson and Poole, believing Hyde had murdered Jekyll, break down the door, only to find Hyde's body alone. A new will replacing Hyde as heir was left undestroyed.
+*   **Mr. Edward Hyde:** [Status: Deceased (Suicide)] **[True Identity]** The alternate, malevolent personality of Dr. Henry Jekyll, brought forth by a chemical potion. Lanyon's account confirms he witnessed Hyde transform back into Jekyll. Hyde was found dead in Jekyll's cabinet from self-administered poison, wearing Jekyll's oversized clothes. His final appearances were involuntary, as the original chemical ingredient with a key impurity could no longer be sourced, trapping Jekyll in his Hyde form.
 *   **Mr. Gabriel John Utterson:** Summoned by a terrified Poole, Utterson investigates the strange occurrences at Jekyll's home. Convinced that Jekyll has been murdered by Hyde, he leads the effort to break down the cabinet door. Inside, he discovers Hyde's body and, to his amazement, a new will that names him, Gabriel John Utterson, as Jekyll's sole beneficiary. He also finds Jekyll's final letter and a sealed confession, which he takes home to uncover the truth.
-*   **Dr. Hastie Lanyon:** [Status: Deceased] An old friend who died from a profound shock related to Jekyll. Jekyll's final letter to Utterson explicitly instructs him to read the narrative Lanyon left behind before reading Jekyll's own confession, underscoring its importance.
-*   **Poole:** Jekyll's loyal butler. His terror and conviction that "foul play" has occurred are the catalyst for the final events. He provides Utterson with critical evidence: the changed voice from the cabinet, the different, lighter footstep, the desperate search for a pure chemical, and the sighting of a small, masked figure he identifies as Hyde. He bravely assists Utterson in breaking down the cabinet door with an axe.
+*   **Dr. Hastie Lanyon:** [Status: Deceased] An old friend who died from the shock of witnessing Mr. Hyde drink a potion and physically transform into Dr. Henry Jekyll. At Jekyll's desperate request, Lanyon broke into the laboratory cabinet to retrieve the transformative chemicals for Hyde. Lanyon documented this horrifying event in a narrative for Utterson to read after his death, providing the first concrete explanation of Jekyll's secret.
+*   **Poole:** Jekyll's loyal butler. His terror and conviction that "foul play" has occurred are the catalyst for the final events with Utterson. He provides critical evidence: the changed voice, the lighter footstep, the desperate search for a pure chemical, and the sighting of a masked figure (Hyde). He bravely assists Utterson in breaking down the cabinet door. Previously, he had also followed Jekyll's written instructions to admit Dr. Lanyon and a locksmith to force open the cabinet so Lanyon could retrieve a drawer of chemicals.
 *   **Mr. Guest:** Mr. Utterson's head clerk. His handwriting analysis confirmed that Jekyll likely forged a letter for Hyde, a key piece of the early mystery.
 /END 🔗 **Relationship Dynamics**
 
 /START
 ### 🔬 **Scientific & Domestic Context** [Strength: High]
+
+/START
+### 🧪 **The Transformative Potion** [Strength: High]
+*   **Ingredients:** As retrieved by Dr. Lanyon from Jekyll's cabinet, the key components included:
+    ↳ **Powders:** A "simple crystalline salt of a white colour," noted by Lanyon as being privately manufactured by Jekyll.
+    ↳ **Tincture:** A phial containing a "blood-red liquor," with a pungent smell, believed to contain phosphorus and some volatile ether.
+*   **Process:** When a powder was mixed with a few minims of the red tincture, the mixture would effervesce, change color from red to purple to green, and then be ready for consumption.
+*   **Logbook:** A notebook found with the chemicals contained a series of dates over many years, recording the experiments. It included notes like "double" and one "total failure!!!", with the entries ceasing about a year before the final events.
+/END 🧪 **The Transformative Potion**
 *   **The Cabinet & Final Scene:** The cabinet above the laboratory becomes the epicenter of the mystery. After breaking down the door, Utterson and Poole find it strangely peaceful, with a fire glowing and tea things laid out. However, they discover the body of Edward Hyde, a suicide. Dr. Jekyll is nowhere to be found. Key items in the room include a cheval-glass (mirror), various measured piles of a white salt, and a pious book of Jekyll's defaced with handwritten blasphemies.
-*   **The Desperate Search for a Drug:** In the final week, the occupant of the cabinet (Hyde) engaged in a frantic, non-stop effort to procure a specific chemical. Through notes thrown on the stair (written in Jekyll's hand), he sent Poole to multiple chemists, repeatedly rejecting the delivered salts as "not pure" and begging them to find a sample of the "old" batch. This reveals the transformation was dependent on a specific, possibly contaminated, ingredient.
+*   **The Desperate Search for a Drug:** In the final week, Jekyll (trapped as Hyde) engaged in a frantic effort to procure the original salt for his potion. Through notes, he sent Poole to multiple chemists, but repeatedly rejected the delivered salts as "not pure." This desperation stemmed from the fact that the transformations had become involuntary and the reversal was failing. The original batch of the salt likely contained an unknown impurity that was essential for the potion's efficacy, an impurity missing from the new, chemically pure supplies. This ultimately trapped him in the form of Hyde.
 /END 🔬 **Scientific & Domestic Context**
 
 /START
@@ -37,7 +46,7 @@ This file serves as the central entity for Dr. Henry Jekyll. It establishes his 
 *   **Support Systems:** [Placeholder for identifying user's own support network, e.g., trusted friends, professional supervisors.]
 /END 🛠️ **Support Framework**
 
-{"id":"dr_henry_jekyll","type":"person","keywords":["doctor","jekyll","hyde","will","lanyon","utterson","murder","suicide","confession","laboratory","disappearance"],"strength":"High"}
+{"id":"dr_henry_jekyll","type":"person","keywords":["doctor","jekyll","hyde","will","lanyon","utterson","transformation","potion","confession","laboratory","duality","suicide"],"strength":"High"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Henry Jekyll","aliases":["Edward Hyde"],"type":"human","role":"Respected doctor with a dark secret","strength":"High","hard_cues":["will","confession","laboratory","Cavendish Square","suicide","pure chemical"],"soft_cues":["duality of man","concealed disgrace","startling blasphemies"],"emotional_cues":["scientific ambition","desperate secrecy","profound shock"],"related_entities":["gabriel_john_utterson","hastie_lanyon","poole"],"file":"memories/people/dr_henry_jekyll.md"}
+{"name":"Dr. Henry Jekyll","aliases":["Edward Hyde"],"type":"human","role":"Victorian doctor with a secret dual nature.","strength":"High","hard_cues":["potion","transformation","duality","will","confession","Lanyon","Utterson"],"soft_cues":["concealed disgrace","wild when young","startling blasphemies"],"emotional_cues":["aching regret","scientific ambition","terror"],"related_entities":["edward_hyde","gabriel_john_utterson","hastie_lanyon","poole"],"file":"memories/people/dr_henry_jekyll.md"}

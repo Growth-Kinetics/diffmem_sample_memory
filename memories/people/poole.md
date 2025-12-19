@@ -24,6 +24,9 @@ This file serves as the central entity for Poole, Dr. Jekyll's butler. It captur
     ↳ **Hyde's Seclusion:** Observes that Mr. Hyde's activities are separate from the domestic life of the main house ("we see very little of him on this side").
     ↳ **The Letter Incident:** Inadvertently reveals a deception by Dr. Jekyll. When asked by Utterson about a letter supposedly hand-delivered by a messenger, Poole is "positive" that no one delivered a letter that day, only circulars by post. This contradiction is a key piece of evidence for Utterson.
 
+
+    ↳ **The Cabinet Breach for Lanyon:** On instructions from Dr. Jekyll (received via a registered letter), Poole facilitates a separate, earlier breach of the cabinet. He awaits Dr. Lanyon's arrival and has already summoned a locksmith and a carpenter. He accompanies Lanyon and the tradesmen to the cabinet, where the locksmith works for two hours to open the door. In this instance, Poole is acting under direct, albeit strange, orders from a master he believes is still alive and in command.
+
     ↳ **Bearer of Bad News:** Following a brief social resurgence by Dr. Jekyll, Poole becomes the sole point of contact for Mr. Utterson, repeatedly informing him that the doctor is "confined to the house" and will see no one.
     ↳ **Reporting on Seclusion:** Provides consistent updates to Utterson on Dr. Jekyll's worsening state of self-isolation. He reports that the doctor now confines himself almost exclusively to the cabinet above the laboratory (sometimes even sleeping there), is "out of spirits," has "grown very silent," and no longer reads, appearing to have "something on his mind."
 
@@ -38,4 +41,4 @@ This file serves as the central entity for Poole, Dr. Jekyll's butler. It captur
 {"id":"poole","type":"person","keywords":["butler","jekyll","servant","hyde","key","orders","letter","seclusion","cabinet","reports","foul play","terror","murder","axe","mask","dwarf","voice","weeping"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Poole","type":"human","role":"Jekyll's loyal butler & key witness","strength":"Medium","hard_cues":["butler","Jekyll","Utterson","Hyde","cabinet","foul play","axe","voice"],"soft_cues":["loyal servant's terror","instigates final search","breaks protocol"],"emotional_cues":["desperate loyalty","abject terror"],"related_entities":["henry_jekyll","utterson","edward_hyde"],"file":"memories/people/poole.md"}
+{"name":"Poole","type":"human","role":"Jekyll's loyal butler & final investigator","strength":"Medium","hard_cues":["butler","Jekyll","Hyde","Utterson","cabinet","axe","foul play","voice"],"soft_cues":["breaks protocol from loyalty","instigates cabinet breach","terrified but proactive"],"emotional_cues":["abject terror","desperate loyalty","conviction of murder"],"related_entities":["henry_jekyll","utterson","edward_hyde","lanyon"],"file":"memories/people/poole.md"}

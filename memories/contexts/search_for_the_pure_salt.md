@@ -9,6 +9,16 @@ This file serves as the central entity for the week-long, desperate search for a
 *   **Urgency:** The need is described as "bitter bad." The written orders state that "Expense is no consideration" and the matter's importance "can hardly be exaggerated," culminating in a desperate, handwritten plea: "For God's sake, find me some of the old."
 /END 📖 **Event Narrative & Context**
 
+
+/START
+### 🧪 **Original Formula Components (per Lanyon's Account)** [Strength: High]
+*   **Source:** A drawer (press E, fourth from top) retrieved from Jekyll's cabinet by Dr. Lanyon on January 9th, at Jekyll's written request.
+*   **Component 1 (The Salt):** Powders of a "simple crystalline salt of a white colour," noted by Lanyon as being of Jekyll's "private manufacture." This is the ingredient that later proves impossible to replicate with commercial supplies.
+*   **Component 2 (The Tincture):** A phial containing a "blood-red liquor," described as highly pungent and containing phosphorus and some volatile ether.
+*   **The Record:** A paper book containing a series of dates covering many years, believed to be a record of Jekyll's experiments with the formula. Entries ceased nearly a year prior to Lanyon's retrieval.
+*   **Transformation Process:** Hyde mixes a small amount of the red tincture with one of the powders in a graduated glass. The mixture effervesces, changes color from red to purple to watery green, and is then consumed to trigger the transformation back into Jekyll.
+/END 🧪 **Original Formula Components (per Lanyon's Account)**
+
 /START
 ### ⚙️ **Operational Process** [Strength: Medium]
 *   **Command Method:** Orders are written on sheets of paper and thrown down onto the stair from the locked cabinet.
@@ -37,4 +47,4 @@ This file serves as the central entity for the week-long, desperate search for a
 {"id":"search_for_the_pure_salt","type":"event","keywords":["salt","pure","jekyll","hyde","poole","chemists","maw","impure","note","experiment","drug","medicine","18--"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Search for the Pure Salt","aliases":["Jekyll's Desperate Search","The Impure Drug"],"type":"event","role":"A frantic, week-long effort by Jekyll/Hyde to replicate a past chemical purchase.","strength":"Low","hard_cues":["pure salt","Messrs. Maw","impure sample","wholesale chemists","written orders","18-- purchase","white salt heaps"],"soft_cues":["crying for medicine","bitter bad","expense no consideration","weeping like a lost soul","constant pacing"],"emotional_cues":["desperation","urgency","frustration","anguish","failure"],"related_entities":["dr_henry_jekyll","poole","mr_hyde","messrs_maw"],"file":"search_for_the_pure_salt.md"}
+{"name":"Search for the Pure Salt","aliases":["The Impure Drug Search"],"type":"concept","role":"Hyde's frantic, failed search for Jekyll's transformation salt.","strength":"Low","hard_cues":["pure salt","Jekyll's cabinet","Poole","Messrs. Maw","impure","Lanyon","18--"],"soft_cues":["weeping like a lost soul","notes thrown down stairs","failed experiments"],"emotional_cues":["utter desperation","frantic urgency","abject failure"],"related_entities":["dr_jekyll","mr_hyde","poole","dr_lanyon"],"file":"memories/contexts/search_for_the_pure_salt.md"}

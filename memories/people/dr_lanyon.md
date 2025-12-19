@@ -14,9 +14,10 @@ This file serves as the central entity for Dr. Lanyon, a prominent London doctor
 ### 🔗 **Relationship Dynamics** [Strength: Medium]
 *   **Mr. Utterson:** An old and close friend from school and college. Their bond is one of genuine warmth, mutual respect, and enjoyment of each other's company.
 *   **Dr. Henry Jekyll:** [Status: Severed, Deceased (in Lanyon's view)] Formerly an old school friend. After a brief reconciliation in early January, the relationship is irrevocably destroyed following an unspecified "shock" that Lanyon experiences.
-    ↳ **Lanyon's Perspective:** After the shock, Lanyon's estrangement turns to terror and revulsion. He declares he is "quite done with that person" and begs Utterson to spare him "any allusion to one whom I regard as dead." He believes the knowledge he gained is what caused his fatal decline.
+    ↳ **Lanyon's Perspective:** The "shock" is revealed to be Lanyon witnessing Mr. Hyde transform into Dr. Jekyll in his own home on January 9th. This event, followed by Jekyll's verbal confession of the "moral turpitude" involved, turns Lanyon's professional disagreement into absolute terror and revulsion. He declares he is "quite done with that person" and begs Utterson to spare him "any allusion to one whom I regard as dead," as the knowledge has shaken his life to its roots and sentenced him to death.
     ↳ **Jekyll's Perspective:** Jekyll's letter to Utterson confirms the break is "incurable," stating "I share his view that we must never meet." He accepts the blame, alluding to a "punishment and a danger that I cannot name."
-*   **Mr. Hyde:** [Status: Unknown] Lanyon has no knowledge of this person, stating he has "Never heard of him." He notes that Hyde must have appeared in Jekyll's life "since my time," referring to the period after their estrangement.
+*   **Mr. Edward Hyde:** [Status: Witnessed, Identified] On the night of January 9th, Lanyon meets Hyde for the first time when Hyde arrives at his home as Jekyll's messenger.
+    ↳ **Lanyon's Perspective:** Lanyon is immediately struck by a "disgustful curiosity" and physical revulsion towards Hyde, noting his small stature, ill-fitting clothes, and a "shocking expression." He feels an "icy pang" at Hyde's touch and a subjective disturbance that includes a sinking of the pulse. After witnessing Hyde's transformation into Jekyll, Lanyon learns from Jekyll's confession that this man was not only his creation but also the wanted murderer of Sir Danvers Carew. This revelation is the core of the "shock" that leads to Lanyon's death.
 /END 🔗 **Relationship Dynamics**
 
 /START
@@ -30,10 +31,12 @@ This file serves as the central entity for Dr. Lanyon, a prominent London doctor
 /START
 ### ⏳ **Timeline & Key Events** [Strength: High]
 *   **January 8th:** Dines with Mr. Utterson at Dr. Jekyll's home. The three are together and appear as "inseparable friends" from the old days, marking a brief reconciliation.
+
+*   **January 9th:** Receives a desperate, registered letter from Jekyll. Following its instructions, he breaks into Jekyll's cabinet, retrieves a drawer containing chemicals and a notebook, and at midnight, admits a messenger—Mr. Hyde—to his consulting room.
 *   **Mid-January (after the 15th):** Visited by Utterson. Lanyon's appearance is drastically altered. He has his "death-warrant written legibly upon his face," suffering from a "deep-seated terror of the mind."
-*   **The Shock:** Lanyon states, "I have had a shock... and I shall never recover." This event is the direct cause of his fatal decline and the final severing of his relationship with Jekyll.
+*   **The Shock (The Transformation):** In his consulting room, Lanyon witnesses Hyde mix the retrieved chemicals and drink the resulting potion. He watches in terror as Hyde transforms into Dr. Henry Jekyll. This "prodigy that would stagger the unbelief of Satan" shatters Lanyon's rational worldview. Jekyll then provides a verbal confession that sickens Lanyon's soul and seals his fate. Lanyon describes the experience: "My life is shaken to its roots; sleep has left me; the deadliest terror sits by me at all hours of the day and night."
 *   **Death:** Dies less than a fortnight after his conversation with Utterson.
-*   **Posthumous Letter:** Leaves a letter for Utterson, to be opened upon the death or disappearance of Dr. Jekyll. This narrative is revealed to be the first key to the mystery, as Jekyll's final note to Utterson explicitly instructs him to "first read the narrative which Lanyon... was to place in your hands" before reading Jekyll's own confession.
+*   **Posthumous Letter:** Leaves a detailed narrative for Utterson, to be opened upon the death or disappearance of Dr. Jekyll. This letter recounts the events of January 9th: receiving Jekyll's plea, retrieving the drawer of chemicals, the arrival of Mr. Hyde, and the horrifying transformation of Hyde into Jekyll. It is the first concrete piece of evidence that solves the mystery, revealing the direct link between the two identities.
 /END ⏳ **Timeline & Key Events**
 
 /START
@@ -49,7 +52,7 @@ This file serves as the central entity for Dr. Lanyon, a prominent London doctor
 *   **Support Systems:** [Placeholder for identifying user's own support network.]
 /END 🛠️ **Support Framework**
 
-{"id":"dr_lanyon","type":"person","keywords":["doctor","lanyon","cavendish square","jekyll","shock","death-warrant","doomed","posthumous letter","terror"],"strength":"High"}
+{"id":"dr_lanyon","type":"person","keywords":["doctor","lanyon","cavendish square","jekyll","shock","death-warrant","doomed","posthumous letter","terror","Hyde","transformation","potion"],"strength":"High"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Lanyon","aliases":[],"type":"human","role":"Rational doctor, witness to Jekyll's secret","strength":"Medium","hard_cues":["Jekyll","Utterson","shock","posthumous letter","unscientific balderdash"],"soft_cues":["Scientific dogma shattered by a terrible truth"],"emotional_cues":["deep-seated terror","revulsion"],"related_entities":["dr_henry_jekyll","mr_utterson"],"file":"memories/people/dr_lanyon.md"}
+{"name":"Dr. Lanyon","type":"human","role":"Rational doctor, witness to Jekyll's transformation","strength":"High","hard_cues":["Cavendish Square","Jekyll","Hyde","transformation","shock","posthumous letter","death-warrant"],"soft_cues":["rationality shattered by horror","scientific dogma"],"emotional_cues":["deep-seated terror","doomed man","former geniality"],"related_entities":["mr_utterson","dr_henry_jekyll","mr_edward_hyde"],"file":"memories/people/dr_lanyon.md"}
