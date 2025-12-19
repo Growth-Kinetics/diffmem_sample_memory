@@ -14,24 +14,28 @@ This file serves as the central entity for the concept of Personal Austerity, a 
     ↳ Deliberately choosing a less desirable option (gin) to curb a preference for a more refined one (vintages).
 *   **Recreational Abstinence:**
     ↳ Avoiding enjoyable activities (theatre) for extended periods (twenty years) despite having an appreciation for them.
-*   **Emotional & Physical Demeanor:**
-    ↳ Can be associated with a rugged, unsmiling countenance and a reserved, scanty mode of discourse.
+*   **Emotional & Social Demeanor:**
+    ↳ **Physical:** Presents a "rugged countenance that was never lighted by a smile."
+    ↳ **Verbal:** Described as "cold, scanty and embarrassed in discourse" and "backward in sentiment."
+    ↳ **Friendships:** Affections are "the growth of time, like ivy," founded on longevity and loyalty rather than any "aptness in the object."
+    ↳ **Contradiction:** Despite this reserved, "undemonstrative" nature, he is perceived as "somehow lovable."
 /END 📋 Behavioral Manifestations
 
 /START
 ### ↔️ Boundary Conditions & Contrasts [Strength: High]
 *   **Internal vs. External Application:** This austerity is strictly self-directed ("austere with himself").
 *   **Contrast with Social Interaction:** Coexists with a profound "tolerance for others" and a non-judgmental philosophy ("Cain's heresy").
-    ↳ The practitioner does not impose their self-denial upon others, and may even be inclined to help rather than reprove them.
+    ↳ The practitioner does not impose their self-denial upon others, and may even be "inclined to help rather than to reprove."
+        ↳ As a result, he often serves as the "last reputable acquaintance and the last good influence in the lives of downgoing men."
 /END ↔️ Boundary Conditions & Contrasts
 
 /START
 ### 🔗 Associated Entities [Strength: Low]
 *   **Exemplars:**
-    ↳ [Placeholder for Mr. Gabriel John Utterson] - The primary observed instance of this trait.
+    ↳ [[gabriel_john_utterson]] - The primary observed instance of this trait.
 /END 🔗 Associated Entities
 
 {"id":"personal_austerity","type":"concept","keywords":["austerity","self-denial","discipline","mortify","vintages","theatre","utterson","stoicism"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Personal Austerity","aliases":[],"type":"concept","role":"Practice of strict, deliberate self-denial","strength":"Low","hard_cues":["self-denial","discipline","stoicism","mortify","Cain's heresy","vintages","theatre"],"soft_cues":["austere with self","tolerant of others","solitary lifestyle"],"emotional_cues":["disciplined restraint"],"related_entities":["gabriel_john_utterson"],"file":"memories/contexts/personal_austerity.md"}
+{"name":"Personal Austerity","type":"concept","role":"Character trait of strict self-denial","strength":"Low","hard_cues":["self-denial","stoicism","discipline","vintages","theatre","Cain's heresy"],"soft_cues":["austere with himself","tolerance for others","somehow lovable","last good influence"],"emotional_cues":["disciplined reserve","quiet loyalty"],"related_entities":["gabriel_john_utterson"],"file":"memories/contexts/personal_austerity.md"}

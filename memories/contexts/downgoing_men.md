@@ -26,10 +26,10 @@ This file serves as the central entity for the concept of "Downgoing Men," a cat
 ### 👤 Known Members [Strength: Low]
 *   **General Pattern:** This category represents individuals who seek out Mr. Utterson's company as a final point of stability and non-judgmental friendship.
 *   **Identified Individuals:**
-    ↳ [Placeholder for future identified individuals who fit this description]
+    ↳ **Mr. Hyde:** The subject of Mr. Enfield's story. He exhibits extreme moral turpitude, trampling a child calmly and evoking a universal sense of loathing and detestation in all who see him. His actions, described as "hellish" and like a "damned Juggernaut," and his connection to a reputable gentleman via a cheque, position him as a prime example of a man deep in moral decline.
 /END 👤 Known Members
 
 {"id":"downgoing_men","type":"context","keywords":["decline","misdeeds","tolerance","utterson","cain's heresy","reputable","influence"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Downgoing Men","type":"concept","role":"Men in social or moral decline","strength":"Low","hard_cues":["social decline","moral decline","Mr. Utterson","Cain's heresy","misdeeds","last good influence"],"soft_cues":["non-judgmental safe harbor","Utterson's quiet tolerance","wonder at their misdeeds"],"emotional_cues":["melancholy duty","steady acceptance"],"related_entities":["mr_utterson"],"file":"memories/contexts/downgoing_men.md"}
+{"name":"Downgoing Men","type":"concept","role":"Men in social or moral decline","strength":"Low","hard_cues":["moral decline","misdeeds","Mr. Utterson","Cain's heresy","tolerance","Mr. Hyde"],"soft_cues":["last respectable friend","safe harbor from judgment","non-interference"],"emotional_cues":["detached wonder","unwavering acceptance"],"related_entities":["mr_utterson","mr_hyde"],"file":"memories/contexts/downgoing_men.md"}
