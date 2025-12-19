@@ -17,14 +17,15 @@ This file serves as the central entity for Poole, Dr. Jekyll's butler. It captur
 /START
 ### ⚖️ **Professional Context** [Strength: Medium]
 *   **Profession:** Butler.
-*   **Work Environment:** Dr. Jekyll's comfortable and wealthy London residence. Poole is responsible for managing the main entrance and hall.
+*   **Work Environment:** Dr. Jekyll's comfortable and wealthy London residence. Poole's duties cover the entire property; he is familiar with the main house, the kitchen offices, and the path across the yard to the laboratory building.
 *   **Key Knowledge:**
     ↳ **Hyde's Access:** Confirms Mr. Hyde has a key and unrestricted access via the "old dissecting room" (laboratory).
     ↳ **Hyde's Authority:** States that the entire household staff is under direct orders from Dr. Jekyll to obey Mr. Hyde.
     ↳ **Hyde's Seclusion:** Observes that Mr. Hyde's activities are separate from the domestic life of the main house ("we see very little of him on this side").
+    ↳ **The Letter Incident:** Inadvertently reveals a deception by Dr. Jekyll. When asked by Utterson about a letter supposedly hand-delivered by a messenger, Poole is "positive" that no one delivered a letter that day, only circulars by post. This contradiction is a key piece of evidence for Utterson.
 /END ⚖️ **Professional Context**
 
-{"id":"poole","type":"person","keywords":["butler","jekyll","servant","hyde","key","orders","elderly"],"strength":"Low"}
+{"id":"poole","type":"person","keywords":["butler","jekyll","servant","hyde","key","orders","letter","messenger","elderly"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Poole","aliases":[],"type":"human","role":"Dr. Jekyll's elderly butler","strength":"Low","hard_cues":["Butler","elderly","well-dressed","Jekyll's household"],"soft_cues":["Follows orders to obey Hyde","Hyde has a key","Hyde uses laboratory entrance"],"emotional_cues":["Professional deference","Loyalty to master"],"related_entities":["dr_henry_jekyll","mr_hyde","mr_utterson"],"file":"poole.md"}
+{"name":"Poole","type":"human","role":"Dr. Jekyll's butler","strength":"Low","hard_cues":["butler","Dr. Jekyll","Mr. Hyde","Mr. Utterson","laboratory key","orders to obey","letter incident"],"soft_cues":["loyal servant","formal and respectful","contradicts master's story"],"emotional_cues":["professional duty","subtle concern"],"related_entities":["dr_henry_jekyll","mr_utterson","mr_hyde"],"file":"memories/people/poole.md"}

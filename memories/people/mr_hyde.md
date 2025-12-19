@@ -6,7 +6,9 @@ This file serves as the central entity for Mr. Hyde, a mysterious and malevolent
 *   **[Name]** Mr. Hyde | **[Key Roles]** Antagonist, Murderer, Fugitive | **[Key Traits]** Detestable, malevolent, violent, sneering, capable of "ape-like fury" and "insensate cruelty."
     ↳ **Physicality:** A small, pale, and dwarfish man, very plainly dressed. He gives an impression of deformity without any nameable malformation. Observers describe him as "down-right detestable" and "hardly human," suggesting something "troglodytic." Utterson perceives "Satan's signature" upon his face.
     ↳ **Emotional Signature:** Instantly inspires a deep-seated loathing, hatred, and fear in all observers. Even the dispassionate Mr. Enfield felt a desire to kill him, and Mr. Utterson experiences "disgust, loathing and fear."
-    ↳ **Communication Style:** Speaks with a "husky, whispering and somewhat broken voice." Can be coolly defiant ("That is my name. What do you want?") but also reacts with a "hissing intake of the breath" when startled and a "savage laugh" when angered. Can be accusatory, calling Utterson a liar.
+    ↳ **Communication Style:**
+    *   **Spoken:** Speaks with a "husky, whispering and somewhat broken voice." Can be coolly defiant ("That is my name. What do you want?") but also reacts with a "hissing intake of the breath" when startled and a "savage laugh" when angered. Can be accusatory, calling Utterson a liar.
+    *   **Written:** His supposed handwriting is an "odd, upright hand." A letter attributed to him reassures Jekyll of his safety and means of escape. However, this handwriting is discovered to be nearly identical to Dr. Jekyll's, suggesting forgery.
     ↳ **Thinking Pattern:** Primarily self-preserving, but prone to explosive, uncontrolled rage ("a great flame of anger") with no apparent provocation. Can lose his head in the aftermath of violence, making critical errors (leaving behind half of the murder weapon, burning a cheque book).
 /END 🌟 **Core Identity Mapping**
 
@@ -36,17 +38,25 @@ This file serves as the central entity for Mr. Hyde, a mysterious and malevolent
 *   **Soho Lodgings:** Hyde's rooms in a "dismal" Soho district are found to be furnished with "luxury and good taste," including silver, fine napery, and a good picture, presumed to be gifts from Jekyll. The rooms were found ransacked, with ashes in the fireplace from burned papers and the butt end of a green cheque book.
 *   **Financial Link:** A bank account in Hyde's name contains "several thousand pounds." The discovery of a burned cheque book suggests a frantic attempt to destroy evidence.
 *   **The Laboratory Door:** The "sinister block of building" Hyde has a key to is the old dissecting room, which is part of Dr. Jekyll's property.
-*   **Jekyll's Reassurance & Utterson's Promise:** Dr. Jekyll previously assured Utterson, "the moment I choose, I can be rid of Mr. Hyde," and extracted a promise from Utterson to "get his rights for him" should Jekyll be "taken away." This promise now haunts Utterson in light of the murder.
+*   **The "Hyde" Letter & Forgery:** After the Carew murder, Jekyll provides Utterson with a letter, supposedly from Hyde.
+    ↳ **Content:** Written in an "odd, upright hand," the letter claims Hyde has a secure "means of escape" and that Jekyll should not fear for his safety.
+    ↳ **Delivery:** Jekyll claims the letter was handed in without a postmarked envelope (which he burned), but his butler, Poole, denies any messengers arrived, suggesting the letter originated from within the laboratory.
+    ↳ **Handwriting Analysis:** Utterson's clerk, Mr. Guest, compares the letter to Jekyll's own writing and finds a "singular resemblance," concluding the two hands are "in many points identical: only differently sloped." This leads Utterson to believe Jekyll forged the letter for the murderer.
+*   **Jekyll's Desperate Vow:** After the murder, Jekyll, looking "deathly sick," swears to Utterson: "I will never set eyes on him again. I bind my honour to you that I am done with him in this world." He insists Hyde is "safe" and "will never more be heard of." This vow is immediately undermined by the discovery of the forged letter.
+*   **Hyde's Influence on the Will:** Jekyll confirms to Utterson that it was Hyde who dictated the terms of his will, particularly the clause regarding his "disappearance."
+*   **Utterson's Promise:** Jekyll previously extracted a promise from Utterson to "get his rights for him" should Jekyll be "taken away." This promise now haunts Utterson in light of the murder and Jekyll's suspicious behavior.
 /END 🔑 **Mysterious Connections**
 
 /START
 ### 🔗 **Relationship Dynamics** [Strength: Medium]
 *   **General Pattern:** Evokes universal hatred, disgust, and fear. No positive relationships have been observed.
 *   **Known Associates:**
-    ↳ **Dr. Henry Jekyll:** The relationship is intensely personal and contradictory. Hyde is Jekyll's heir and appears to be furnished by him in luxury. The murder weapon was a gift from Utterson to Jekyll. Jekyll previously claimed he could be "rid of Mr. Hyde" at will, a claim now cast in a sinister light.
+    ↳ **Dr. Henry Jekyll:** The relationship is intensely personal and contradictory. While Jekyll swears he is "done with" Hyde forever, his actions suggest complicity. He provides a forged letter from Hyde to mislead the investigation and protect his own reputation. Utterson's discovery of the forgery leads him to believe Jekyll is actively covering for a murderer. Jekyll also confirms Hyde dictated the terms of his will.
     ↳ **Mr. Utterson:** After identifying the victim (Sir Danvers Carew), Utterson leads Inspector Newcomen to Hyde's Soho address. He recognizes the murder weapon, deepening his suspicion and horror. He is now a key figure in the police investigation.
     ↳ **Sir Danvers Carew:** A respected, "aged beautiful gentleman with white hair" murdered by Hyde in the street with extreme, unprovoked violence.
     ↳ **Inspector Newcomen (Scotland Yard):** The lead investigator on the Carew murder case. Utterson assists him by providing Hyde's address and identifying the cane.
+
+    ↳ **Mr. Guest:** Mr. Utterson's head clerk and a "great student and critic of handwriting." He identifies the "singular resemblance" between Hyde's supposed letter and Dr. Jekyll's handwriting, leading Utterson to conclude Jekyll forged the note for a murderer.
     ↳ **Soho Housekeeper:** An "ivory-faced and silvery-haired old woman" with an "evil face, smoothed by hypocrisy" who manages Hyde's lodgings. She expresses "odious joy" at the news of Hyde being in trouble with the law, indicating he is not a popular character.
     ↳ **Poole (Jekyll's Butler):** Confirms that Hyde has a key to the laboratory and that the staff are under orders to obey him.
     ↳ **Dr. Lanyon:** An old friend of Jekyll's, but has never heard of Mr. Hyde.
@@ -68,4 +78,4 @@ This file serves as the central entity for Mr. Hyde, a mysterious and malevolent
 {"id":"mr_hyde","type":"person","keywords":["hyde","jekyll","will","murder","carew","cane","ape-like","clubbed","detestable","deformed","trampled","juggernaut","satan","troglodytic","soho","newcomen"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Mr. Hyde","type":"human","role":"Antagonist, murderer, fugitive","strength":"Medium","hard_cues":["Dr. Jekyll","Sir Danvers Carew","murder","cane","ape-like fury","Soho","trampled"],"soft_cues":["unnamed deformity","sinister London nights","Juggernaut presence","murderous timidity"],"emotional_cues":["universal loathing","unprovoked rage","primal fear","savage laugh"],"related_entities":["dr_henry_jekyll","mr_utterson","sir_danvers_carew","inspector_newcomen"],"file":"memories/people/mr_hyde.md"}
+{"name":"Mr. Hyde","type":"human","role":"Malevolent antagonist & murderer","strength":"High","hard_cues":["Jekyll's will","Carew murder","heavy cane","Soho lodgings","trampled girl","forgery"],"soft_cues":["ape-like fury","unnameable deformity","Satan's signature","hissing breath"],"emotional_cues":["universal loathing and fear","unprovoked rage","insensate cruelty"],"related_entities":["dr_henry_jekyll","mr_utterson","sir_danvers_carew"],"file":"memories/people/mr_hyde.md"}

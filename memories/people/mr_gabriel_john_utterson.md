@@ -23,26 +23,28 @@ This file serves as the central entity for Mr. Utterson, a lawyer of Victorian L
 
     ↳ **Sir Danvers Carew:** A prominent and respected gentleman, M.P., and a client of Utterson's. Murdered by Mr. Hyde. An envelope addressed to Utterson was found on his body, leading the police to the lawyer.
     ↳ **Inspector Newcomen:** An officer from Scotland Yard. Utterson assists him in the investigation of the Carew murder, leading him to Hyde's lodgings in Soho.
+    ↳ **Mr. Guest:** Utterson's head clerk and a trusted confidant. Guest is a "great student and critic of handwriting," and Utterson relies on his expertise and counsel when faced with the mysterious letter from Hyde.
 /END 🔗 **Relationship Dynamics**
 
 /START
 ### ⚖️ **Professional Context** [Strength: Medium]
 *   **Profession:** Lawyer.
 *   **Work Environment:** Operates from his "chambers," which serve as a place of counsel and refuge.
+*   **Key Personnel:** Employs a head clerk, Mr. Guest, whom he trusts implicitly and consults on sensitive matters. Guest is also a noted expert on handwriting.
 *   **Professional Demeanor:** Maintains an unchanging, reliable presence for all who seek his help, never marking "a shade of change in his demeanour," even for those in dire straits.
 /END ⚖️ **Professional Context**
 
 /START
 ### 👤 **Personal Context** [Strength: Medium]
 *   **Lifestyle:** Practices self-imposed austerity.
-*   **Private Habits:** Drinks gin when alone to "mortify a taste for vintages." His typical Sunday routine (a quiet meal followed by reading "dry divinity") is disrupted by his anxiety over Jekyll's will. This anxiety leads to sleepless nights, nightmares, and a new obsessive habit of haunting the by-street door in an effort to meet Mr. Hyde, dubbing himself "Mr. Seek."
+*   **Private Habits:** Drinks gin when alone to "mortify a taste for vintages." However, when deeply troubled and seeking counsel after the Carew murder, he brings out "a particular old wine" to share with his clerk, Mr. Guest, indicating a willingness to break his austere habits under extreme duress. His anxiety over Jekyll leads to sleepless nights, nightmares, and an obsessive habit of haunting the by-street door to meet Mr. Hyde, dubbing himself "Mr. Seek."
 *   **Interests (Suppressed):** Enjoys the theatre but has not attended in twenty years.
 /END 👤 **Personal Context**
 
 /START
 ### 🧭 **Values & Aspirations** [Strength: High]
 *   **Core Philosophy:** Adheres to "Cain's heresy," a principle of non-interference: "I let my brother go to the devil in his own way." This core tenet is severely tested and ultimately broken by his concern for Dr. Jekyll. Following the murder of Sir Danvers Carew, he moves from a state of passive worry to active intervention, leading the police directly to Mr. Hyde's lodgings.
-*   **Guiding Principles:** Inclined to help rather than to reprove. Has a "strong feeling about putting questions," believing it can lead to unintended consequences, and agrees with the rule: "the more it looks like Queer Street, the less I ask."
+*   **Guiding Principles:** Inclined to help rather than to reprove. Has a "strong feeling about putting questions," believing it can lead to unintended consequences. While habitually self-reliant, the escalating crisis surrounding Jekyll and Hyde pushes him to a point where he develops a "longing for advice," leading him to strategically consult his clerk, Mr. Guest.
 *   **Internal Conflict:** A clear tension exists between his austere, self-denying practices and his quiet appreciation for life's pleasures (vintages, theatre).
 /END 🧭 **Values & Aspirations**
 
@@ -64,9 +66,16 @@ This file serves as the central entity for Mr. Utterson, a lawyer of Victorian L
     ↳ **Leading the Investigation:** After the police describe the suspect as a small man, Utterson's suspicion of Hyde is confirmed. He leads Inspector Newcomen to Hyde's address in a gloomy, nightmarish district of Soho.
     ↳ **Search of Hyde's Lodgings:** They find Hyde's rooms have been ransacked. Evidence is discovered, including the other half of the cane and the burnt remains of a cheque book. The inspector believes Hyde has incriminated himself and can be caught at the bank.
     ↳ **The Fugitive's Identity:** A major obstacle to the investigation arises: Hyde has no known family, has never been photographed, and descriptions of him from the few who have seen him are inconsistent, agreeing only on a "haunting sense of unexpressed deformity."
+
+*   **Visit to a "Deathly Sick" Jekyll:** Following the murder, Utterson visits Jekyll in his cabinet, a room he'd never been in before. He finds Jekyll looking "deathly sick" and receives a feverish promise that Jekyll is "done with" Hyde forever.
+*   **The Hyde Letter:** Jekyll gives Utterson a letter, supposedly from Hyde, stating he has a safe means of escape. Jekyll claims to have burned the envelope, which was hand-delivered without a postmark. Utterson is initially relieved, believing it clears Jekyll of a worse intimacy.
+*   **Poole's Contradiction:** On leaving, Utterson questions Poole, who is positive no letter was hand-delivered that day. This renews Utterson's fears, making him suspect the letter was written within the cabinet itself.
+*   **Consultation with Mr. Guest:** Feeling a "longing for advice," Utterson consults his head clerk, Mr. Guest, an expert in handwriting. He shows Guest the letter from "Hyde."
+*   **The Horrifying Discovery:** By chance, a dinner invitation from Jekyll arrives. Guest compares the two documents and discovers the handwriting is "in many points identical: only differently sloped."
+*   **Utterson's Conclusion:** Utterson is horrified by the implication. He locks the letter in his safe and concludes, "Henry Jekyll forge for a murderer!" His blood runs cold.
 /END 📓 **Noteworthy Events & Observations**
 
 {"id":"mr_utterson","type":"person","keywords":["lawyer","utterson","jekyll","hyde","lanyon","poole","will","seek","austere","tolerant","cain's heresy","london"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Gabriel John Utterson","aliases":["Mr. Utterson"],"type":"human","role":"Victorian lawyer & loyal friend","strength":"Medium","hard_cues":["lawyer","Jekyll's will","Victorian London","austere","Cain's heresy","Sir Danvers Carew"],"soft_cues":["last good influence","rich silence","haunting the door","Mr. Seek"],"emotional_cues":["deep concern for Jekyll","profound disgust for Hyde","tested loyalty"],"related_entities":["dr_henry_jekyll","mr_edward_hyde","dr_lanyon","mr_richard_enfield","poole"],"file":"memories/people/mr_gabriel_john_utterson.md"}
+{"name":"Mr. Gabriel John Utterson","aliases":["Mr. Seek"],"type":"human","role":"Victorian lawyer and investigator","strength":"Medium","hard_cues":["Jekyll's will","Mr. Hyde","Sir Danvers Carew","handwriting analysis","Soho"],"soft_cues":["austere & reserved","loyal friend","silent Sunday walks","Cain's heresy"],"emotional_cues":["deep concern","disgust for Hyde","horrified discovery"],"related_entities":["dr_henry_jekyll","mr_edward_hyde","dr_lanyon","mr_guest","poole"],"file":"memories/people/mr_gabriel_john_utterson.md"}

@@ -6,6 +6,7 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 *   **[Core Concept]** A single, large building presenting two entirely different faces to the world, physically connecting a respectable residential square with a dingy commercial by-street.
     ↳ **Front Façade:** A handsome, wealthy-looking townhome, occupied entirely by Dr. Jekyll's household.
     ↳ **Rear Façade:** A "sinister block of building" with a door, referred to as the "old dissecting room" or "laboratory," used exclusively by Mr. Hyde.
+*   **[History]** The property was purchased by Dr. Jekyll from the heirs of a celebrated surgeon. Jekyll, whose interests were "rather chemical than anatomical," repurposed the block at the rear of the garden (formerly dissecting rooms) into his personal laboratory.
 *   **[Symbolism]** The house physically manifests a separation between the public, respectable life of Dr. Jekyll and the secret, sordid activities of Mr. Hyde.
 /END 🏛️ **Architectural Overview & Duality**
 
@@ -28,6 +29,20 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
     ↳ **Method:** Mr. Hyde possesses his own key and uses this door as if "approaching home." This is his primary and seemingly exclusive point of entry and exit.
 /END 🚪 **Laboratory Entrance (The By-Street)**
 
+
+/START
+### 🔬 **Laboratory & Cabinet Interior** [Strength: Medium]
+*   **[Access Route]** Can be reached from the main house by passing through the kitchen offices and crossing a yard (formerly a garden). This was the route Mr. Utterson was taken on his first visit to this part of the house.
+*   **[Laboratory Theatre]**
+    ↳ **Description:** A "dingy, windowless structure" that was once a surgical theatre for students. Now it lies "gaunt and silent," with tables laden with chemical apparatus, the floor littered with crates and packing straw.
+    ↳ **Lighting:** Natural light enters dimly through a "foggy cupola."
+*   **[The Doctor's Cabinet]**
+    ↳ **Access:** Reached via a flight of stairs at the far end of the theatre, through a door covered in red baize.
+    ↳ **Description:** A large room furnished with "glass presses," a cheval-glass (full-length mirror), and a business table. A fire burns in the grate.
+    ↳ **View:** Three dusty windows, barred with iron, look out onto the court.
+    ↳ **Significance:** This is Jekyll's private study within the laboratory complex, where he secludes himself. It is where Utterson finds him "deathly sick" after the Carew murder and where Utterson suspects the "Hyde" letter was actually written.
+/END 🔬 **Laboratory & Cabinet Interior**
+
 /START
 ### ⚙️ **Operational Dynamics** [Strength: Low]
 *   **Staff:** A "well-dressed, elderly servant" named Poole is the butler.
@@ -38,13 +53,14 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 /END ⚙️ **Operational Dynamics**
 
 /START
-### 🗺️ **Associated Events & Observations** [Strength: Low]
+### 🗺️ **Associated Events & Observations** [Strength: Medium]
 *   **[Initial Observation]** Mr. Utterson visits the main residence to inquire about Mr. Hyde after reviewing Jekyll's will. He speaks with Poole in the hall.
 *   **[Prior Event]** Mr. Utterson's stakeout and first meeting with Mr. Hyde occurred at the laboratory door in the by-street.
+*   **[Post-Carew Murder Visit]** Following the murder of Sir Danvers Carew, Utterson is taken through the yard to the laboratory for the first time. He finds Jekyll in the cabinet, who gives him a letter supposedly from Hyde. Utterson later deduces the letter was not delivered by a messenger but written within the cabinet, and Mr. Guest confirms the handwriting is Jekyll's own, leading Utterson to believe "Henry Jekyll forge for a murderer!"
 *   **[Atmospheric Note]** Despite the hall's comfort, Utterson feels a "shudder in his blood" and reads "a menace in the flickering of the firelight" after his encounter with Hyde, tainting the pleasant space with a sense of dread.
 /END 🗺️ **Associated Events & Observations**
 
 {"id":"dr_jekylls_residence","type":"location","keywords":["jekyll","house","residence","laboratory","dissecting room","hyde","square","by-street","poole","dual","door"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's House","The Laboratory Door"],"type":"location","role":"Dual-faceted home and laboratory of Dr. Jekyll","strength":"Medium","hard_cues":["Square of handsome houses","by-street door","old dissecting room","laboratory","wealth and comfort","Poole"],"soft_cues":["Pleasantest room in London","pet fancy","menace in the firelight","sinister rear entrance"],"emotional_cues":["Comfort","wealth","mystery","dread","secrecy"],"related_entities":["dr_henry_jekyll","mr_hyde","mr_utterson","poole"],"file":"dr_jekylls_residence.md"}
+{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's House","The Laboratory"],"type":"location","role":"Physical manifestation of Jekyll/Hyde duality","strength":"Low","hard_cues":["Dr. Jekyll","Mr. Hyde","laboratory","by-street door","Poole","red baize door"],"soft_cues":["Respectable facade, sinister rear","Two faces of one building"],"emotional_cues":["Comfortable hall dread","Sinister neglect","Secretive seclusion"],"related_entities":["dr_henry_jekyll","mr_edward_hyde","mr_utterson","poole"],"file":"memories/contexts/dr_jekylls_residence.md"}
