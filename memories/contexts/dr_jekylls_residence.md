@@ -39,7 +39,7 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 *   **[The Doctor's Cabinet]**
     ↳ **Access:** Reached via a flight of stairs at the far end of the theatre, through a door covered in red baize.
     ↳ **Description:** A large room furnished with "glass presses," a cheval-glass (full-length mirror), and a business table. A fire burns in the grate.
-    ↳ **View:** Three dusty windows, barred with iron, look out onto the court.
+    ↳ **View:** Three dusty windows, barred with iron, look out onto the court. The court itself is described as "very cool and a little damp, and full of premature twilight." During the "Incident at the Window," the middle of these three windows was half-open.
     ↳ **Significance:** This is Jekyll's private study within the laboratory complex. It is where Utterson finds him "deathly sick" after the Carew murder and suspects the "Hyde" letter was written. During his final period of seclusion, this room becomes his prison; Poole reports that Jekyll confines himself to it entirely, sometimes even sleeping there.
 /END 🔬 **Laboratory & Cabinet Interior**
 
@@ -58,9 +58,10 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 *   **[Prior Event]** Mr. Utterson's stakeout and first meeting with Mr. Hyde occurred at the laboratory door in the by-street.
 *   **[Post-Carew Murder Visit]** Following the murder of Sir Danvers Carew, Utterson is taken through the yard to the laboratory for the first time. He finds Jekyll in the cabinet, who gives him a letter supposedly from Hyde. Utterson later deduces the letter was not delivered by a messenger but written within the cabinet, and Mr. Guest confirms the handwriting is Jekyll's own, leading Utterson to believe "Henry Jekyll forge for a murderer!"
 *   **[Atmospheric Note]** Despite the hall's comfort, Utterson feels a "shudder in his blood" and reads "a menace in the flickering of the firelight" after his encounter with Hyde, tainting the pleasant space with a sense of dread.
+*   **[The Incident at the Window]** On a Sunday walk, Mr. Utterson and Mr. Enfield stop in the court behind the laboratory. They see Dr. Jekyll at the middle window of his cabinet, looking like a "disconsolate prisoner." After a brief, sad exchange where Jekyll refuses to go out, his face is suddenly overcome with "abject terror and despair," and the window is slammed shut, horrifying the two onlookers.
 /END 🗺️ **Associated Events & Observations**
 
 {"id":"dr_jekylls_residence","type":"location","keywords":["jekyll","house","residence","laboratory","dissecting room","hyde","square","by-street","poole","dual","door"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's House","The Laboratory"],"type":"location","role":"Physical manifestation of Jekyll/Hyde duality","strength":"Medium","hard_cues":["dual facade","by-street door","laboratory","cabinet","cheval-glass","Poole"],"soft_cues":["respectable front, sinister rear","a house divided","public comfort vs private sordidness"],"emotional_cues":["warm comfort","sinister dread","claustrophobic seclusion"],"related_entities":["dr_jekyll","mr_hyde","mr_utterson","poole"],"file":"memories/contexts/dr_jekylls_residence.md"}
+{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's House","The Laboratory"],"type":"location","role":"Physical symbol of Jekyll/Hyde duality","strength":"Medium","hard_cues":["Jekyll","Hyde","Poole","Utterson","laboratory","cabinet","by-street door"],"soft_cues":["dual facades","respectable front, sinister rear","a house divided"],"emotional_cues":["sinister dread","abject terror","disconsolate prisoner"],"related_entities":["dr_jekyll","mr_hyde","mr_utterson","poole"],"file":"memories/contexts/dr_jekylls_residence.md"}

@@ -8,6 +8,7 @@ This file serves as the central entity for the narrative told by Mr. Enfield con
 *   **[Core Event]** In the early hours of a winter morning, a small, detestable man (Mr. Hyde) calmly tramples a young girl and is subsequently cornered by Enfield and a crowd.
 *   **[Resolution]** To avoid scandal, Hyde is compelled to pay £100. He retrieves £10 in gold and a cheque for the balance from a mysterious, sordid building using his own key.
 *   **[Key Anomaly]** The cheque is genuine and signed by a famously reputable and charitable gentleman, leading to speculation about blackmail.
+*   **[Subsequent Event: Incident at the Window]** On a later walk, Enfield and Utterson see Dr. Jekyll at a window of the laboratory building. Jekyll appears "like some disconsolate prisoner" and, after a brief conversation, his face is overcome with "abject terror and despair" before the window is abruptly shut, horrifying the two onlookers.
 /END 📖 **Narrative Summary**
 
 /START
@@ -32,7 +33,8 @@ This file serves as the central entity for the narrative told by Mr. Enfield con
     ↳ **Physicality (Utterson's observation):** Described as "pale and dwarfish," with a "husky, whispering and somewhat broken voice." He gives a strong "impression of deformity without any nameable malformation." Utterson finds him "hardly human," possibly "troglodytic," and feels he has "Satan’s signature upon a face." This confirms the universal, inexplicable revulsion he inspires.
 *   **[Narrator] Mr. Richard Enfield:**
     ↳ **Role:** Primary witness who collared Hyde and negotiated the payment.
-    ↳ **Philosophy:** Avoids asking questions about strange matters ("the more it looks like Queer Street, the less I ask").
+    ↳ **Philosophy:** Initially avoids asking questions ("the more it looks like Queer Street, the less I ask"), but later learns that the door is a back way to Dr. Jekyll's house.
+    ↳ **Later Action:** Witnesses the "Incident at the Window" with Utterson, where they see Jekyll's face transform with terror.
 *   **[Observer] The Doctor ("Sawbones"):**
     ↳ **Role:** Attended to the trampled child.
     ↳ **Reaction:** Despite a typically unemotional disposition, he turned "sick and white with the desire to kill" Hyde upon seeing him.
@@ -40,6 +42,7 @@ This file serves as the central entity for the narrative told by Mr. Enfield con
     ↳ **Identity:** Revealed to be the signatory of the cheque and the benefactor of Mr. Hyde.
     ↳ **Relationship with Hyde:** Utterson discovers Jekyll's will, which leaves his entire estate to Hyde in the event of his death or "disappearance or unexplained absence." All of Jekyll's household staff have orders to obey Hyde.
     ↳ **Relationship with Lanyon:** Dr. Lanyon, an old friend, reports being estranged from Jekyll for over ten years due to Jekyll becoming "too fanciful" and engaging in "unscientific balderdash."
+    ↳ **Deteriorating State (Incident at the Window):** Seen by Utterson and Enfield at his laboratory window, appearing with "an infinite sadness of mien, like some disconsolate prisoner." He refuses to go outside, claiming he "dare not." During the conversation, his smile is replaced by an expression of "abject terror and despair" before the window is slammed shut.
 /END 👥 **Characters Involved**
 
 /START
@@ -48,6 +51,7 @@ This file serves as the central entity for the narrative told by Mr. Enfield con
 *   **The Jekyll-Hyde Connection:** The initial puzzle of the cheque is solved: the signatory is Dr. Jekyll. The mystery now shifts to the *nature* of the relationship. Hyde is not just a beneficiary but has a key to Jekyll's laboratory and authority over his staff.
 *   **Blackmail Hypothesis:** Enfield's theory is that the reputable man is being blackmailed for past misdeeds. He himself admits this explanation is insufficient ("far from explaining all").
 *   **Utterson's Prior Knowledge Explained:** Utterson's disturbance is explained by his possession of Dr. Jekyll's will. The will, written by Jekyll, names Edward Hyde as the sole heir, which had been an "eyesore" for the lawyer long before he knew of Hyde's detestable character.
+*   **The Incident at the Window:** The sudden, horrifying transformation of Dr. Jekyll's expression adds a new layer of mystery. It suggests Jekyll is not merely a victim of blackmail but is in the grip of an active, terrifying, and possibly involuntary struggle. The event leaves both Utterson and Enfield speechless with horror.
 /END 🧩 **Central Mystery & Conflicts**
 
 /START
@@ -64,4 +68,4 @@ This file serves as the central entity for the narrative told by Mr. Enfield con
 {"id":"the_story_of_the_door","type":"event","keywords":["door","enfield","hyde","trampled child","cheque","blackmail","juggernaut","london","jekyll","will","lanyon","utterson"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"The Story of the Door","aliases":["Enfield's Tale"],"type":"concept","role":"Inciting incident of the Jekyll & Hyde mystery","strength":"Low","hard_cues":["Mr. Enfield","Mr. Hyde","Dr. Jekyll","trampled girl","cheque","blackmail"],"soft_cues":["sinister door","unexplained revulsion","Queer Street"],"emotional_cues":["cold dread","hellish violence","nagging suspicion"],"related_entities":["mr_hyde","mr_enfield","mr_utterson","dr_jekyll","dr_lanyon","poole"],"file":"memories/contexts/the_story_of_the_door.md"}
+{"name":"The Story of the Door","type":"concept","role":"Narrative introducing Hyde, a sinister door, and the Jekyll blackmail theory.","strength":"Medium","hard_cues":["Enfield","Hyde","trampled girl","cheque","Jekyll","London","Incident at the Window"],"soft_cues":["sinister door","Queer Street","sordid negligence"],"emotional_cues":["inexplicable revulsion","abject terror"],"related_entities":["mr_hyde","mr_enfield","mr_utterson","dr_jekyll","dr_lanyon","poole"],"file":"memories/contexts/the_story_of_the_door.md"}
