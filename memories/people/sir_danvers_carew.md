@@ -6,7 +6,7 @@ This file serves as the central entity for Sir Danvers Carew, a high-profile gen
 *   **[Name]** Sir Danvers Carew | **[Key Roles]** Gentleman, Victim, Member of Parliament (M.P.), Client of Mr. Utterson | **[Status]** Deceased (Murdered in October, 18—)
     ↳ **Physicality:** Aged, with beautiful white hair.
     ↳ **Disposition:** Perceived by a witness as having an "innocent and old-world kindness," a "well-founded self-content," and a "very pretty manner of politeness."
-    ↳ **Social Standing:** A Member of Parliament (M.P.) and person of "high position," whose murder "startled" London, elicited "a great deal of public feeling," and was considered highly "notable." His title "Sir" indicates he is a member of the gentry or a knight.
+    ↳ **Social Standing:** A Member of Parliament (M.P.) and person of "high position." His murder "startled" London, was "resented as a public injury," and elicited "a great deal of public feeling," leading to a reward of thousands of pounds for the capture of his killer. His title "Sir" indicates he is a member of the gentry or a knight.
 /END 🌟 **Core Identity Mapping**
 
 /START
@@ -22,8 +22,9 @@ This file serves as the central entity for Sir Danvers Carew, a high-profile gen
 /START
 ### 🔗 **Evidence & Connections** [Strength: High]
 *   **Mr. Utterson:** Sir Danvers was Utterson's client. He was carrying a sealed and stamped envelope addressed to Mr. Utterson, which led the police to the lawyer, who formally identified the body.
-*   **Mr. Hyde:** The murderer. He was recognized by the maid, who had previously seen him visit her master and conceived a dislike for him.
-*   **Dr. Henry Jekyll:** The murder weapon, a heavy wooden cane, was broken in the attack. Mr. Utterson recognized it as one he had gifted to Henry Jekyll many years prior. One half of the cane was found in a gutter; the other half was later discovered in Mr. Hyde's rooms. After the murder, Jekyll provided Utterson with a letter, allegedly from Hyde, claiming Hyde had a safe means of escape. Jekyll's claim that the letter was hand-delivered was contradicted by his butler, Poole. Utterson's clerk, Mr. Guest, a handwriting expert, compared the letter to Jekyll's own writing and found the two hands were "in many points identical: only differently sloped," leading Utterson to conclude that Jekyll had forged the letter for a murderer.
+*   **Mr. Hyde:** The murderer. He was recognized by the maid. After the murder, despite a large reward being offered, Hyde "disappeared out of the ken of the police as though he had never existed." An investigation into his past unearthed many "disreputable" tales of cruelty and violence, but his whereabouts remained a complete mystery.
+*   **Dr. Henry Jekyll:** The murder weapon, a heavy wooden cane, was broken in the attack. Mr. Utterson recognized it as one he had gifted to Henry Jekyll many years prior. One half of the cane was found in a gutter; the other half was later discovered in Mr. Hyde's rooms. After the murder, Jekyll provided Utterson with a letter, allegedly from Hyde, claiming Hyde had a safe means of escape. Utterson's clerk, Mr. Guest, a handwriting expert, found Jekyll's and Hyde's handwriting to be identical but differently sloped, leading Utterson to believe Jekyll forged the letter for a murderer.
+    ↳ **Post-Murder Developments:** Following Hyde's public disappearance, Dr. Jekyll emerged from his seclusion for over two months, becoming social and charitable again. However, he abruptly returned to isolation, severing ties with Dr. Lanyon. This break was followed by Lanyon's rapid decline and death, after which Lanyon left Utterson a letter not to be opened until the "death or disappearance of Dr. Henry Jekyll." Jekyll himself wrote to Utterson, speaking of a "punishment and a danger" and his intent to live in "extreme seclusion."
 /END 🔗 **Evidence & Connections**
 
 /START
@@ -35,4 +36,4 @@ This file serves as the central entity for Sir Danvers Carew, a high-profile gen
 {"id":"sir_danvers_carew","type":"person","keywords":["murder","victim","carew","hyde","cane","utterson","maid","london","october","letter","sir","jekyll","police"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Sir Danvers Carew","type":"human","role":"Murder victim & Member of Parliament","strength":"Low","hard_cues":["Mr. Hyde","Mr. Utterson","heavy cane","London","October murder","M.P."],"soft_cues":["Old-world kindness","Senseless street violence","Ape-like fury"],"emotional_cues":["Public shock","Sudden horror"],"related_entities":["mr_hyde","mr_utterson","dr_henry_jekyll"],"file":"memories/people/sir_danvers_carew.md"}
+{"name":"Sir Danvers Carew","aliases":[],"type":"human","role":"Murder victim, M.P., and client of Utterson","strength":"Medium","hard_cues":["Mr. Hyde","Mr. Utterson","Dr. Jekyll","London","cane","October 18\u2014"],"soft_cues":["old-world kindness","moonlit lane","ape-like fury"],"emotional_cues":["public outrage","sudden horror","senseless brutality"],"related_entities":["mr_hyde","mr_utterson","dr_henry_jekyll"],"file":"memories/people/sir_danvers_carew.md"}

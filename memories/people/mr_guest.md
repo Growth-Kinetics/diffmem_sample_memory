@@ -10,7 +10,9 @@ This file serves as the central entity for Mr. Guest, the head clerk of Mr. Utte
 
 /START
 ### 🔗 **Relationship Dynamics** [Strength: Low]
-*   **Mr. Utterson:** Guest is Utterson's trusted head clerk. Utterson keeps "fewer secrets" from him than from anyone else and values him as a "man of counsel." Utterson leverages Guest's expertise to analyze a key piece of evidence, trusting his judgment and discretion.
+*   **Mr. Utterson:** Guest is Utterson's trusted head clerk. Utterson keeps "fewer secrets" from him than from anyone else and values him as a "man of counsel."
+    ↳ **Professional Trust:** Utterson leverages Guest's expertise to analyze a key piece of evidence (the Hyde letter), trusting his judgment and discretion.
+    ↳ **Personal Companionship:** When troubled by Dr. Jekyll's sudden reclusion and the growing mystery, Utterson invites Guest to dine with him, seeking his company.
 /END 🔗 **Relationship Dynamics**
 
 /START
@@ -29,4 +31,4 @@ This file serves as the central entity for Mr. Guest, the head clerk of Mr. Utte
 {"id":"mr_guest","type":"person","keywords":["clerk","handwriting","guest","utterson","jekyll","hyde","letter","resemblance","forge","autograph"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Mr. Guest","aliases":["Guest","Utterson's clerk"],"type":"human","role":"Head clerk & handwriting expert","strength":"Low","hard_cues":["head clerk","handwriting expert","singular resemblance","differently sloped","Jekyll's invitation","Hyde's letter","autograph"],"soft_cues":["man of counsel","studies with passion","understands discretion"],"emotional_cues":["professional curiosity","discretion"],"related_entities":["mr_utterson","dr_henry_jekyll","mr_hyde"],"file":"mr_guest.md"}
+{"name":"Mr. Guest","type":"human","role":"Head Clerk & Handwriting Expert","strength":"Low","hard_cues":["handwriting analysis","Jekyll vs Hyde letter","singular resemblance","Utterson's clerk"],"soft_cues":["discreet professional","man of counsel","analytical passion"],"emotional_cues":["professional trust"],"related_entities":["mr_utterson","dr_henry_jekyll","edward_hyde"],"file":"memories/people/mr_guest.md"}

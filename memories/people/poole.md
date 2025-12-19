@@ -10,7 +10,7 @@ This file serves as the central entity for Poole, Dr. Jekyll's butler. It captur
 /START
 ### 🔗 **Relationship Dynamics** [Strength: Medium]
 *   **Dr. Henry Jekyll:** [Status: Master] Poole serves as Dr. Jekyll's butler. He is loyal and follows his master's instructions, even when they are unusual.
-*   **Mr. Utterson:** [Status: Recognized Visitor] Poole knows Mr. Utterson by name and grants him immediate entry into Dr. Jekyll's home, indicating a pre-existing professional relationship.
+*   **Mr. Utterson:** [Status: Regular Informant] While still a recognized visitor, Poole's primary interaction with Utterson shifts. He becomes Utterson's sole source of information about Dr. Jekyll's decline, delivering regular, grim reports from the doorstep as Jekyll refuses all visitors.
 *   **Mr. Hyde:** [Status: Figure of Authority] Poole is aware of Mr. Hyde's privileged status within the household. He confirms that Hyde has his own key and, critically, that all staff have "orders to obey him." Poole notes that Hyde's presence is confined to the laboratory side of the house and that he "never dines here."
 /END 🔗 **Relationship Dynamics**
 
@@ -23,9 +23,12 @@ This file serves as the central entity for Poole, Dr. Jekyll's butler. It captur
     ↳ **Hyde's Authority:** States that the entire household staff is under direct orders from Dr. Jekyll to obey Mr. Hyde.
     ↳ **Hyde's Seclusion:** Observes that Mr. Hyde's activities are separate from the domestic life of the main house ("we see very little of him on this side").
     ↳ **The Letter Incident:** Inadvertently reveals a deception by Dr. Jekyll. When asked by Utterson about a letter supposedly hand-delivered by a messenger, Poole is "positive" that no one delivered a letter that day, only circulars by post. This contradiction is a key piece of evidence for Utterson.
+
+    ↳ **Bearer of Bad News:** Following a brief social resurgence by Dr. Jekyll, Poole becomes the sole point of contact for Mr. Utterson, repeatedly informing him that the doctor is "confined to the house" and will see no one.
+    ↳ **Reporting on Seclusion:** Provides consistent updates to Utterson on Dr. Jekyll's worsening state of self-isolation. He reports that the doctor now confines himself almost exclusively to the cabinet above the laboratory (sometimes even sleeping there), is "out of spirits," has "grown very silent," and no longer reads, appearing to have "something on his mind."
 /END ⚖️ **Professional Context**
 
-{"id":"poole","type":"person","keywords":["butler","jekyll","servant","hyde","key","orders","letter","messenger","elderly"],"strength":"Low"}
+{"id":"poole","type":"person","keywords":["butler","jekyll","servant","hyde","key","orders","letter","messenger","elderly","seclusion","confined","cabinet","reports"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Poole","type":"human","role":"Dr. Jekyll's butler","strength":"Low","hard_cues":["butler","Dr. Jekyll","Mr. Hyde","Mr. Utterson","laboratory key","orders to obey","letter incident"],"soft_cues":["loyal servant","formal and respectful","contradicts master's story"],"emotional_cues":["professional duty","subtle concern"],"related_entities":["dr_henry_jekyll","mr_utterson","mr_hyde"],"file":"memories/people/poole.md"}
+{"name":"Poole","type":"human","role":"Dr. Jekyll's loyal butler","strength":"Medium","hard_cues":["butler","Dr. Jekyll","Mr. Hyde","Mr. Utterson","key","orders","letter"],"soft_cues":["loyal servant","bearer of grim reports","doorstep informant"],"emotional_cues":["professional concern","growing unease"],"related_entities":["dr_henry_jekyll","mr_utterson","mr_hyde"],"file":"memories/people/poole.md"}

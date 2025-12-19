@@ -40,7 +40,7 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
     ↳ **Access:** Reached via a flight of stairs at the far end of the theatre, through a door covered in red baize.
     ↳ **Description:** A large room furnished with "glass presses," a cheval-glass (full-length mirror), and a business table. A fire burns in the grate.
     ↳ **View:** Three dusty windows, barred with iron, look out onto the court.
-    ↳ **Significance:** This is Jekyll's private study within the laboratory complex, where he secludes himself. It is where Utterson finds him "deathly sick" after the Carew murder and where Utterson suspects the "Hyde" letter was actually written.
+    ↳ **Significance:** This is Jekyll's private study within the laboratory complex. It is where Utterson finds him "deathly sick" after the Carew murder and suspects the "Hyde" letter was written. During his final period of seclusion, this room becomes his prison; Poole reports that Jekyll confines himself to it entirely, sometimes even sleeping there.
 /END 🔬 **Laboratory & Cabinet Interior**
 
 /START
@@ -63,4 +63,4 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 {"id":"dr_jekylls_residence","type":"location","keywords":["jekyll","house","residence","laboratory","dissecting room","hyde","square","by-street","poole","dual","door"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's House","The Laboratory"],"type":"location","role":"Physical manifestation of Jekyll/Hyde duality","strength":"Low","hard_cues":["Dr. Jekyll","Mr. Hyde","laboratory","by-street door","Poole","red baize door"],"soft_cues":["Respectable facade, sinister rear","Two faces of one building"],"emotional_cues":["Comfortable hall dread","Sinister neglect","Secretive seclusion"],"related_entities":["dr_henry_jekyll","mr_edward_hyde","mr_utterson","poole"],"file":"memories/contexts/dr_jekylls_residence.md"}
+{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's House","The Laboratory"],"type":"location","role":"Physical manifestation of Jekyll/Hyde duality","strength":"Medium","hard_cues":["dual facade","by-street door","laboratory","cabinet","cheval-glass","Poole"],"soft_cues":["respectable front, sinister rear","a house divided","public comfort vs private sordidness"],"emotional_cues":["warm comfort","sinister dread","claustrophobic seclusion"],"related_entities":["dr_jekyll","mr_hyde","mr_utterson","poole"],"file":"memories/contexts/dr_jekylls_residence.md"}

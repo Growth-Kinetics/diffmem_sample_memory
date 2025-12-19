@@ -27,21 +27,33 @@ This file serves as the central entity for Dr. Jekyll's holographic will, a docu
 *   **[Utterson's Conclusion]** This discovery leads Utterson to the horrifying belief that "Henry Jekyll forge for a murderer," deepening the mystery and suggesting Jekyll is covering for Hyde, or that their connection is more profound and sinister than imagined.
 /END ✉️ **The "Hyde" Letter**
 
+
 /START
-### ⚡ **Context & Impact** [Strength: Medium]
-*   **Utterson's Professional Objections:** The will is described as the "lawyer's eyesore." It offends him professionally as a lawyer and personally as a "lover of the sane and customary sides of life," who finds its "fanciful" nature "immodest."
-*   **Confirmation of Murderous Intent:** Utterson's distress escalates from fearing "disgrace" to certainty of a murder plot. After Jekyll confirms Hyde dictated the disappearance clause, Utterson concludes Hyde intended to murder Jekyll all along. This fear is compounded when his clerk, Mr. Guest, discovers that the handwriting on a letter from "Hyde" is identical to Jekyll's, merely sloped differently. Utterson's horror culminates in the thought: "Henry Jekyll forge for a murderer!"
-*   **Jekyll's Admission & Reversal:** After the murder of Sir Danvers Carew, a "deathly sick" Jekyll swears to Utterson that he is "done with him [Hyde] in this world." When questioned directly, Jekyll confirms with a nod that it was Hyde who dictated the disappearance clause in the will. This admission validates Utterson's worst fears. Jekyll, for his part, claims to have learned a terrible "lesson."
+### ✉️ **Dr. Lanyon's Posthumous Narrative** [Strength: High]
+*   **[Context]** Following a period of Jekyll's renewed sociability, Dr. Lanyon suffers a sudden, fatal decline after a "shock." Before his death, he entrusts a sealed packet to Mr. Utterson.
+*   **[Outer Envelope]** Superscribed: "PRIVATE: for the hands of G. J. Utterson ALONE, and in case of his predecease to be destroyed unread."
+*   **[Inner Enclosure]** Within the first envelope is another, marked: "not to be opened till the death or disappearance of Dr. Henry Jekyll."
+*   **[Significance]** The reappearance of the "disappearance" clause, identical to the one in Jekyll's will but now written by Lanyon, deeply unnerves Utterson. It links the will's strange provisions to the mysterious falling-out between the two doctors.
+*   **[Status]** Utterson, bound by "professional honour and faith to his dead friend," locks the packet away in his safe, alongside the will.
+/END ✉️ **Dr. Lanyon's Posthumous Narrative**
+
+/START
+### ⚡ **Context & Impact** [Strength: High]
+*   **Utterson's Professional Objections:** The will is described as the "lawyer's eyesore." It offends him professionally and personally as a "lover of the sane and customary sides of life."
+*   **Escalating Horror:** Utterson's initial fear of a murder plot (believing Hyde would kill Jekyll to inherit) is compounded by the discovery that Jekyll forged a letter for Hyde. This leads to the horrifying conclusion: "Henry Jekyll forge for a murderer!"
+*   **Brief Reprieve & Final Collapse:** Following Hyde's disappearance after the Carew murder, Jekyll enjoys a two-month reprieve, becoming social and charitable again. However, this ends abruptly. He relapses into a state of "extreme seclusion," breaking off contact with friends, including a terminal falling-out with Dr. Lanyon.
+*   **Jekyll's Confession of Suffering:** In a letter to Utterson, Jekyll alludes to a self-inflicted "punishment and a danger that I cannot name," describing himself as the "chief of sinners" and "chief of sufferers."
+*   **The Lanyon Connection:** The mystery deepens with Lanyon's death and his posthumous letter, which instructs Utterson not to open an inner enclosure until the "death or disappearance of Dr. Henry Jekyll." This links Lanyon's fate directly to the will's most disturbing clause.
 /END ⚡ **Context & Impact**
 
 /START
 ### 🔗 **Associated Entities** [Strength: High]
 *   **Dr. Henry Jekyll:** [Role: Testator] The author of the will, whose judgment and motivations are now in question.
 *   **Mr. Edward Hyde:** [Role: Beneficiary] The sole and unconditional inheritor, whose malevolent character makes the will deeply troubling.
-*   **Mr. Utterson:** [Role: Custodian, Objector, & Promised Executor] The keeper of the document. While he objects to its terms, he has now promised Jekyll to "bear with him [Hyde] and get his rights for him" in the event of Jekyll's death or disappearance.
+*   **Mr. Utterson:** [Role: Custodian, Objector, & Promised Executor] The keeper of the will. His custodial duties have expanded to include a second sealed document from the late Dr. Lanyon, which is also not to be opened until Jekyll's death or disappearance. He remains bound by his promise to Jekyll and his professional honor.
 /END 🔗 **Associated Entities**
 
 {"id":"dr_jekylls_will","type":"document","keywords":["will","holographic","jekyll","hyde","inheritance","disappearance","utterson","benefactor","eyesore"],"strength":"High"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Jekyll's Will","type":"concept","role":"Holographic will transferring Jekyll's estate to Hyde","strength":"Medium","hard_cues":["holographic will","Henry Jekyll","Edward Hyde","Mr. Utterson","beneficiary","disappearance clause","forgery"],"soft_cues":["lawyer's eyesore","fanciful document","sinister bond"],"emotional_cues":["deep concern","professional offense","dread"],"related_entities":["henry_jekyll","edward_hyde","mr_utterson"],"file":"memories/contexts/dr_jekylls_will.md"}
+{"name":"Dr. Jekyll's Will","aliases":["Jekyll's Will"],"type":"concept","role":"Holographic will leaving estate to Edward Hyde","strength":"High","hard_cues":["holographic will","Edward Hyde","beneficiary","disappearance clause","Utterson","Lanyon's narrative"],"soft_cues":["lawyer's eyesore","professional offense","sinister bond"],"emotional_cues":["dread","horror","unnerving mystery"],"related_entities":["dr_henry_jekyll","mr_edward_hyde","mr_utterson","dr_lanyon"],"file":"memories/contexts/dr_jekylls_will.md"}

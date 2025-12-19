@@ -29,7 +29,7 @@ This file serves as the central entity for Mr. Hyde, a mysterious and malevolent
 *   **The Murder of Sir Danvers Carew:**
     ↳ **Context:** Witnessed by a maid servant from her window on a moonlit October night. The victim was an "aged beautiful gentleman with white hair" (Sir Danvers Carew).
     ↳ **Action:** After a brief, polite address from Carew, Hyde "broke out in a great flame of anger," brandished a heavy cane, and "clubbed him to the earth." He then proceeded with "ape-like fury," trampling the victim and hailing down blows until the "bones were audibly shattered."
-    ↳ **Aftermath:** Hyde fled the scene, leaving the "incredibly mangled" body. He left behind one half of the broken murder weapon. The victim carried a letter addressed to Mr. Utterson, drawing him into the investigation.
+    ↳ **Aftermath:** Hyde fled the scene, leaving the "incredibly mangled" body and half of the broken murder weapon. The victim's letter drew Utterson into the investigation. Despite a city-wide manhunt and a large reward, Hyde "disappeared out of the ken of the police as though he had never existed." His past was unearthed, revealing a history of cruelty, violence, and strange associates, but his current whereabouts remained a complete mystery.
 
 /START
 ### 🔑 **Mysterious Connections** [Strength: High]
@@ -42,7 +42,7 @@ This file serves as the central entity for Mr. Hyde, a mysterious and malevolent
     ↳ **Content:** Written in an "odd, upright hand," the letter claims Hyde has a secure "means of escape" and that Jekyll should not fear for his safety.
     ↳ **Delivery:** Jekyll claims the letter was handed in without a postmarked envelope (which he burned), but his butler, Poole, denies any messengers arrived, suggesting the letter originated from within the laboratory.
     ↳ **Handwriting Analysis:** Utterson's clerk, Mr. Guest, compares the letter to Jekyll's own writing and finds a "singular resemblance," concluding the two hands are "in many points identical: only differently sloped." This leads Utterson to believe Jekyll forged the letter for the murderer.
-*   **Jekyll's Desperate Vow:** After the murder, Jekyll, looking "deathly sick," swears to Utterson: "I will never set eyes on him again. I bind my honour to you that I am done with him in this world." He insists Hyde is "safe" and "will never more be heard of." This vow is immediately undermined by the discovery of the forged letter.
+*   **Jekyll's Fluctuating State:** After the murder, Jekyll swears to Utterson he is "done with" Hyde. Following Hyde's public disappearance, Jekyll enters a period of renewal for over two months, becoming social, charitable, and religious. This recovery abruptly ends, and he falls into a state of "extreme seclusion," refusing to see even Utterson. In a letter, he speaks of an incurable quarrel with Lanyon and a self-inflicted "punishment and a danger that I cannot name," referring to himself as the "chief of sinners" and "chief of sufferers."
 *   **Hyde's Influence on the Will:** Jekyll confirms to Utterson that it was Hyde who dictated the terms of his will, particularly the clause regarding his "disappearance."
 *   **Utterson's Promise:** Jekyll previously extracted a promise from Utterson to "get his rights for him" should Jekyll be "taken away." This promise now haunts Utterson in light of the murder and Jekyll's suspicious behavior.
 /END 🔑 **Mysterious Connections**
@@ -59,7 +59,7 @@ This file serves as the central entity for Mr. Hyde, a mysterious and malevolent
     ↳ **Mr. Guest:** Mr. Utterson's head clerk and a "great student and critic of handwriting." He identifies the "singular resemblance" between Hyde's supposed letter and Dr. Jekyll's handwriting, leading Utterson to conclude Jekyll forged the note for a murderer.
     ↳ **Soho Housekeeper:** An "ivory-faced and silvery-haired old woman" with an "evil face, smoothed by hypocrisy" who manages Hyde's lodgings. She expresses "odious joy" at the news of Hyde being in trouble with the law, indicating he is not a popular character.
     ↳ **Poole (Jekyll's Butler):** Confirms that Hyde has a key to the laboratory and that the staff are under orders to obey him.
-    ↳ **Dr. Lanyon:** An old friend of Jekyll's, but has never heard of Mr. Hyde.
+    ↳ **Dr. Lanyon:** Previously estranged from Jekyll over scientific disagreements, Lanyon suffers a catastrophic decline after receiving a "shock" related to Jekyll. He describes himself as a "doomed man" with his "death-warrant written legibly upon his face." He vehemently cuts ties with Jekyll, whom he now regards as dead, and dies within weeks. Before his death, he entrusts Mr. Utterson with a letter, not to be opened until the death or disappearance of Dr. Jekyll, deepening the mystery.
 /END 🔗 **Relationship Dynamics**
 
 /START
@@ -75,7 +75,7 @@ This file serves as the central entity for Mr. Hyde, a mysterious and malevolent
 *   **Support Systems:** [Placeholder for identifying user's own support network, e.g., discussing the story with Mr. Enfield.]
 /END 🛠️ **Support Framework**
 
-{"id":"mr_hyde","type":"person","keywords":["hyde","jekyll","will","murder","carew","cane","ape-like","clubbed","detestable","deformed","trampled","juggernaut","satan","troglodytic","soho","newcomen"],"strength":"Medium"}
+{"id":"mr_hyde","type":"person","keywords":["hyde","jekyll","will","murder","carew","cane","ape-like","clubbed","detestable","deformed","trampled","juggernaut","satan","troglodytic","soho","newcomen","lanyon","seclusion","shock"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Mr. Hyde","type":"human","role":"Malevolent antagonist & murderer","strength":"High","hard_cues":["Jekyll's will","Carew murder","heavy cane","Soho lodgings","trampled girl","forgery"],"soft_cues":["ape-like fury","unnameable deformity","Satan's signature","hissing breath"],"emotional_cues":["universal loathing and fear","unprovoked rage","insensate cruelty"],"related_entities":["dr_henry_jekyll","mr_utterson","sir_danvers_carew"],"file":"memories/people/mr_hyde.md"}
+{"name":"Mr. Hyde","type":"human","role":"Malevolent antagonist, murderer","strength":"High","hard_cues":["jekyll","carew murder","trampled girl","cane","soho","will"],"soft_cues":["troglodytic","damned Juggernaut","savage laugh"],"emotional_cues":["deep-seated loathing","ape-like fury","insensate cruelty"],"related_entities":["dr_henry_jekyll","mr_utterson","sir_danvers_carew","dr_lanyon"],"file":"memories/people/mr_hyde.md"}
