@@ -3,7 +3,7 @@ This file serves as the central entity for Mr. Richard Enfield. It establishes h
 
 /START
 ### 🌟 **Core Identity Mapping** [ALWAYS_LOAD] [Strength: Medium]
-*   **[Name]** Mr. Richard Enfield | **[Key Roles]** "Well-known man about town," Distant Kinsman, Companion | **[Key Traits]** Observant, principled, storyteller, reserved.
+*   **[Name]** Mr. Richard Enfield | **[Key Roles]** "Well-known man about town," Distant Kinsman, Companion | **[Key Traits]** Observant, principled, storyteller, reserved, unimpressionable.
     ↳ **Emotional Signature:** Expresses strong moral outrage (at Hyde's cruelty) and instant loathing. Can become sullen when surprised. Feels shame over his "long tongue."
     ↳ **Communication Style:** Paradoxical. Often silent and "dull" during walks with Utterson, yet capable of recounting long, detailed, and dramatic stories.
     ↳ **Thinking Pattern:** Reflective and philosophical, guided by a strict personal code of non-interference.
@@ -18,7 +18,7 @@ This file serves as the central entity for Mr. Richard Enfield. It establishes h
 *   **Mr. Hyde:**
     ↳ **Nature of Encounter:** Witnessed Hyde trample a child, an act he found "hellish."
     ↳ **Action Taken:** Physically collared Hyde and, with others, compelled him to pay £100 in restitution.
-    ↳ **Impression:** Feels a visceral, immediate loathing for Hyde, describing him as "down-right detestable" and having a "strong feeling of deformity" that is hard to specify.
+    ↳ **Impression:** Feels a visceral, immediate loathing for Hyde, an emotion Utterson later reflects on as a "spirit of enduring hatred." Enfield describes him as "down-right detestable" and having a "strong feeling of deformity" that is hard to specify.
 /END 🔗 **Relationship Dynamics**
 
 /START
@@ -46,4 +46,4 @@ This file serves as the central entity for Mr. Richard Enfield. It establishes h
 {"id":"mr_richard_enfield","type":"person","keywords":["enfield","utterson","kinsman","man about town","story of the door","hyde","queer street"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Mr. Richard Enfield","aliases":["Richard","Enfield"],"type":"human","role":"Well-known man about town, kinsman & friend to Utterson","strength":"Low","hard_cues":["Man about town","Sunday walks","Story of the Door","kinsman to Utterson","Queer Street"],"soft_cues":["Ashamed of my long tongue","enigmatic friendship","principled non-interference","storyteller"],"emotional_cues":["Visceral loathing for Hyde","sullenness","principled reserve","moral outrage"],"related_entities":["mr_utterson","mr_hyde"],"file":"mr_richard_enfield.md"}
+{"name":"Mr. Richard Enfield","type":"human","role":"Utterson's kinsman, man about town","strength":"Low","hard_cues":["Utterson","Hyde","Story of the Door","Queer Street","London"],"soft_cues":["Sunday walks","pact of silence","non-interference rule"],"emotional_cues":["moral outrage","visceral loathing","shame over gossip"],"related_entities":["mr_gabriel_john_utterson","mr_hyde"],"file":"memories/people/mr_richard_enfield.md"}
