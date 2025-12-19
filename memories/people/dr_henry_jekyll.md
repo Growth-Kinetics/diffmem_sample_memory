@@ -12,15 +12,15 @@ This file serves as the central entity for Dr. Henry Jekyll. It establishes his 
 
 /START
 ### 🔗 **Relationship Dynamics** [Strength: High]
-*   **Mr. Edward Hyde:** [Status: Deeply Complicated Connection] Designated as Jekyll's heir. Jekyll claims he "can be rid of Mr. Hyde" the moment he chooses, yet also expresses a "very great interest in poor Hyde" and extracts a promise from Utterson to ensure Hyde's rights are protected after his death. The topic of Hyde causes Jekyll extreme physical and emotional distress. Hyde has a key to the laboratory and authority over the staff, but does not socialize in the main house.
-*   **Mr. Gabriel John Utterson:** An old friend and his lawyer, for whom Jekyll cherishes a "sincere and warm affection." Jekyll expresses absolute trust in him, stating, "I would trust you before any man alive." Utterson is the custodian of Jekyll's will and, at Jekyll's pleading, promises to ensure justice for Hyde should Jekyll be "taken away."
+*   **Mr. Edward Hyde:** [Status: Murderer, Fugitive] Designated as Jekyll's heir. Hyde has brutally murdered Sir Danvers Carew, clubbing him to death with "ape-like fury" in the street. The murder weapon was a heavy cane, a gift from Utterson to Jekyll, directly linking the crime to Jekyll's household. Following the murder, Hyde is a fugitive from the law. His lodgings in Soho were found ransacked, with a burned checkbook and the other half of the murder weapon discovered. Despite the violence, Jekyll previously expressed a "very great interest in poor Hyde" and made Utterson promise to protect his rights.
+*   **Mr. Gabriel John Utterson:** An old friend and his lawyer, for whom Jekyll cherishes a "sincere and warm affection." Following the murder of his client, Sir Danvers Carew, Utterson has become a key figure in the investigation. He identified the victim's body and, to his horror, recognized the murder weapon as a cane he had gifted to Henry Jekyll years prior. This discovery led him to guide Inspector Newcomen of Scotland Yard to Hyde's lodgings in Soho. Utterson remains the custodian of Jekyll's will.
 *   **Dr. Hastie Lanyon:** An old friend from school and college, now estranged. Lanyon considers Jekyll's work "unscientific balderdash." Jekyll reciprocates the sentiment, calling Lanyon a "hide-bound pedant," an "ignorant, blatant pedant," and expresses he was "never more disappointed in any man than Lanyon" due to his friend's dismissal of his "scientific heresies."
 *   **Poole:** Jekyll's loyal, elderly butler. He confirms that the household staff have orders to obey Mr. Hyde.
 /END 🔗 **Relationship Dynamics**
 
 /START
 ### 🔬 **Scientific & Domestic Context** [Strength: Medium]
-*   **Residence:** Occupies a large, handsome house that conveys "wealth and comfort." The property has at least two entrances: a main door leading to a comfortable hall, and a separate entrance through the "old dissecting room," referred to as the laboratory, which is used exclusively by Mr. Hyde.
+*   **Residences:** Jekyll occupies a large, handsome house that conveys "wealth and comfort," with a main entrance and a separate laboratory door. Critically, Mr. Hyde also maintains separate lodgings in a "dismal quarter of Soho." These rooms, while in a poor neighborhood, were furnished with "luxury and good taste." After the murder of Sir Danvers Carew, the rooms were found ransacked, with a burned checkbook and the other half of the murder weapon on the premises.
 *   **Scientific Pursuits:** Has become involved in controversial, non-traditional research that deviates from mainstream science. This work is dismissed by Dr. Lanyon as "unscientific balderdash" and is the source of their estrangement.
 /END 🔬 **Scientific & Domestic Context**
 
@@ -38,7 +38,7 @@ This file serves as the central entity for Dr. Henry Jekyll. It establishes his 
 *   **Support Systems:** [Placeholder for identifying user's own support network, e.g., trusted friends, professional supervisors.]
 /END 🛠️ **Support Framework**
 
-{"id":"dr_henry_jekyll","type":"person","keywords":["doctor","jekyll","hyde","will","lanyon","utterson","fanciful","unscientific","laboratory","disappearance"],"strength":"Medium"}
+{"id":"dr_henry_jekyll","type":"person","keywords":["doctor","jekyll","hyde","will","lanyon","utterson","murder","carew","soho","cane","laboratory","disappearance"],"strength":"High"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Henry Jekyll","aliases":["Jekyll"],"type":"human","role":"Respected doctor with a dark secret","strength":"Low","hard_cues":["Edward Hyde","Utterson","Lanyon","will","laboratory","disappearance"],"soft_cues":["scientific heresies","painfully situated","old sin"],"emotional_cues":["deep distress","warm affection","scientific ambition"],"related_entities":["mr_edward_hyde","mr_gabriel_john_utterson","dr_hastie_lanyon"],"file":"memories/people/dr_henry_jekyll.md"}
+{"name":"Dr. Henry Jekyll","type":"human","role":"Secretive doctor with a troubling heir, Mr. Hyde","strength":"Medium","hard_cues":["Edward Hyde","Utterson","Lanyon","the will","murder","cane","Soho"],"soft_cues":["wild youth","unscientific balderdash","concealed disgrace"],"emotional_cues":["warm affection","deep distress"],"related_entities":["mr_edward_hyde","mr_gabriel_john_utterson","dr_hastie_lanyon"],"file":"memories/people/dr_henry_jekyll.md"}
