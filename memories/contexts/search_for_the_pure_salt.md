@@ -11,9 +11,17 @@ This file serves as the central entity for the week-long, desperate search for a
 
 
 /START
+### 🎯 **The Critical Flaw (per Jekyll's Confession)** [Strength: High]
+*   **Source of Failure:** Jekyll's final confession reveals the frantic search was based on a catastrophic misunderstanding. The original salt, purchased years prior, was effective not because of its purity, but because of an unknown **impurity** it contained.
+*   **Jekyll's Realization:** He writes, "I am now persuaded that my first supply was impure, and that it was that unknown impurity which lent efficacy to the draught."
+*   **Doomed Search:** All subsequent batches procured by Poole, being chemically pure as requested, lacked this accidental, essential contaminant. The search for a "pure" salt was therefore destined to fail from the outset.
+/END 🎯 **The Critical Flaw (per Jekyll's Confession)**
+
+
+/START
 ### 🧪 **Original Formula Components (per Lanyon's Account)** [Strength: High]
 *   **Source:** A drawer (press E, fourth from top) retrieved from Jekyll's cabinet by Dr. Lanyon on January 9th, at Jekyll's written request.
-*   **Component 1 (The Salt):** Powders of a "simple crystalline salt of a white colour," noted by Lanyon as being of Jekyll's "private manufacture." This is the ingredient that later proves impossible to replicate with commercial supplies.
+*   **Component 1 (The Salt):** A large quantity of a particular salt, originally purchased from a firm of wholesale chemists. Dr. Lanyon incorrectly assumed it was of Jekyll's "private manufacture." Jekyll later concludes this original batch contained an unknown **impurity** which was the true active ingredient, a fact that made all subsequent, purer supplies ineffective.
 *   **Component 2 (The Tincture):** A phial containing a "blood-red liquor," described as highly pungent and containing phosphorus and some volatile ether.
 *   **The Record:** A paper book containing a series of dates covering many years, believed to be a record of Jekyll's experiments with the formula. Entries ceased nearly a year prior to Lanyon's retrieval.
 *   **Transformation Process:** Hyde mixes a small amount of the red tincture with one of the powders in a graduated glass. The mixture effervesces, changes color from red to purple to watery green, and is then consumed to trigger the transformation back into Jekyll.
@@ -42,9 +50,11 @@ This file serves as the central entity for the week-long, desperate search for a
 *   **Vocalization:** Poole reports hearing the figure "crying night and day for some sort of medicine."
 *   **Weeping:** On one occasion, Poole heard the entity "weeping like a woman or a lost soul," an event that deeply disturbed him.
 *   **Isolation:** The figure remains locked in the cabinet, refusing all visitors and having meals left outside the door to be "smuggled in when nobody was looking."
+
+*   **Jekyll's Explanation:** In his final statement, Jekyll anticipates this behavior. He describes that once trapped as Hyde permanently, he will "sit shuddering and weeping" or "pace up and down" in a "fearstruck ecstasy of listening." This confirms the behavior is driven by Hyde's terror of capture and his hatred for the confinement of the cabinet.
 /END 🧠 **Behavioral Manifestations**
 
 {"id":"search_for_the_pure_salt","type":"event","keywords":["salt","pure","jekyll","hyde","poole","chemists","maw","impure","note","experiment","drug","medicine","18--"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Search for the Pure Salt","aliases":["The Impure Drug Search"],"type":"concept","role":"Hyde's frantic, failed search for Jekyll's transformation salt.","strength":"Low","hard_cues":["pure salt","Jekyll's cabinet","Poole","Messrs. Maw","impure","Lanyon","18--"],"soft_cues":["weeping like a lost soul","notes thrown down stairs","failed experiments"],"emotional_cues":["utter desperation","frantic urgency","abject failure"],"related_entities":["dr_jekyll","mr_hyde","poole","dr_lanyon"],"file":"memories/contexts/search_for_the_pure_salt.md"}
+{"name":"Search for the Pure Salt","aliases":["The Salt Search"],"type":"project","role":"Frantic, failed search for a transformative chemical","strength":"Low","hard_cues":["pure salt","impurity","Jekyll's cabinet","Poole","wholesale chemists","Messrs. Maw"],"soft_cues":["doomed errand","tragic irony","failure loop","notes on stairs"],"emotional_cues":["bitter bad urgency","desperate plea","weeping like a lost soul"],"related_entities":["dr_jekyll","mr_hyde","poole","dr_lanyon","dr_jekylls_cabinet"],"file":"memories/contexts/search_for_the_pure_salt.md"}

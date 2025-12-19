@@ -15,8 +15,9 @@ This file serves as the central entity for Sir Danvers Carew, a high-profile gen
 *   **[Location]** A lane in London, "not far from the river," brilliantly lit by a full moon.
 *   **[Perpetrator]** Mr. Hyde.
 *   **[Witness]** A maid servant, who observed the event from her window. She fainted from the horror of the scene.
-*   **[Narrative]** Sir Danvers accosted Mr. Hyde politely, possibly just to ask for directions. Without provocation, Hyde broke out in "a great flame of anger," brandished a heavy cane, and "clubbed him to the earth." He then proceeded to trample the victim with "ape-like fury," shattering his bones and leaving the body "incredibly mangled" on the roadway.
-*   **[Motive]** None apparent. The attack was sudden and senselessly violent. A purse and gold watch were left on the body, ruling out robbery.
+*   **[Narrative]** Sir Danvers accosted Mr. Hyde politely, possibly just to ask for directions. According to the maid who witnessed the event, Hyde broke out in "a great flame of anger" without provocation, brandished a heavy cane, and "clubbed him to the earth." He then trampled the victim with "ape-like fury," shattering his bones.
+    ↳ **Perpetrator's Account (from Jekyll's confession):** The attack occurred after Jekyll, in a moment of "moral weakness," relapsed and transformed into Hyde after two months of control. Hyde, having been "long caged," emerged "roaring" with a "furious propensity to ill." He met Carew's "civilities" with a "tempest of impatience" and attacked with "a transport of glee," delighting in every blow until a sudden "cold thrill of terror" struck him.
+*   **[Motive]** The attack was not motivated by robbery (a purse and gold watch were left on the body). From an external perspective, it was a senseless act of unprovoked violence. Jekyll's confession reveals the internal "motive": it was an explosion of pent-up evil. Hyde, having been suppressed for two months, was overcome by a "furious propensity to ill" and a "tempest of impatience" at Carew's polite greeting. Jekyll describes the act as being done in "no more reasonable spirit than that in which a sick child may break a plaything."
 /END 💀 **Event: The Murder of Sir Danvers Carew**
 
 /START
@@ -38,4 +39,4 @@ This file serves as the central entity for Sir Danvers Carew, a high-profile gen
 {"id":"sir_danvers_carew","type":"person","keywords":["murder","victim","carew","hyde","cane","utterson","maid","london","october","letter","sir","jekyll","police"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Sir Danvers Carew","type":"human","role":"Murder victim, M.P., client of Utterson","strength":"Medium","hard_cues":["Mr. Hyde","cane murder","M.P.","Utterson","London","October 18\u2014"],"soft_cues":["old-world kindness","senseless violence","public injury"],"emotional_cues":["shocking public horror","ape-like fury"],"related_entities":["mr_hyde","mr_utterson","dr_henry_jekyll"],"file":"memories/people/sir_danvers_carew.md"}
+{"name":"Sir Danvers Carew","type":"human","role":"Polite gentleman murdered by Mr. Hyde","strength":"High","hard_cues":["Carew murder","M.P.","cane","London","October","Utterson's client"],"soft_cues":["innocent old-world kindness","public injury"],"emotional_cues":["senseless violence","public outrage"],"related_entities":["mr_hyde","mr_utterson","dr_henry_jekyll"],"file":"memories/people/sir_danvers_carew.md"}

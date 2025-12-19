@@ -17,7 +17,7 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 *   **The Hall:**
     ↳ **Description:** A "large, low-roofed, comfortable hall" paved with flags, warmed by a bright, open fire, and furnished with "costly cabinets of oak."
         ↳ **Significance:** Described as a "pet fancy" of Dr. Jekyll's and the "pleasantest room in London." However, on the final night, this comfort is shattered. The hall is brightly lit, but the entire household staff is found huddled in terror around the hearth, transforming the symbol of domestic peace into a scene of dreadful expectation.
-*   **Access & Atmosphere:** The main entrance is staffed by a butler (Poole). It is the domestic, comfortable side of the house where guests are received. Mr. Hyde is never seen here and does not dine in this part of the house.
+*   **Access & Atmosphere:** The main entrance is staffed by a butler (Poole). Initially, Jekyll informed his staff that Mr. Hyde was to have "full liberty and power" about the house, and even made appearances as Hyde to familiarize them with his presence. However, Hyde's appearances were unsettling; the footman Bradshaw was noted to be visibly startled seeing Hyde in the house at an odd hour. Hyde was not a social guest and did not dine in this part of the house.
 /END ✨ **Primary Residence (The Square)**
 
 /START
@@ -26,7 +26,7 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 *   **Associated Structure:** This entrance leads to a part of the building identified as the "old dissecting room" and the "laboratory."
 *   **Access & Occupancy:**
     ↳ **Primary User:** Mr. Edward Hyde was the designated user and possessed a key.
-    ↳ **State of Disuse:** During the final search of the premises, the door was found locked from the inside. The key was discovered nearby on the floor, broken and rusted, indicating it had not been used for some time and that this entrance was no longer a viable point of access.
+    ↳ **State of Disuse:** After the murder of Sir Danvers Carew, Jekyll, in a fit of remorse and renunciation, "locked the door... and ground the key under my heel." The door was subsequently found locked from the inside during the final search, with the broken key on the floor, confirming it had been deliberately destroyed by Jekyll and was no longer a viable point of access.
 /END 🚪 **Laboratory Entrance (The By-Street)**
 
 
@@ -38,7 +38,7 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
     ↳ **Lighting:** Natural light enters dimly through a "foggy cupola."
 *   **[The Doctor's Cabinet]**
     ↳ **Access:** Reached via a flight of stairs at the far end of the theatre, through a door covered in red baize.
-    ↳ **Description:** A large room furnished with "glass presses" (one specifically marked 'E'), a cheval-glass (full-length mirror), and a business table. A fire burns in the grate.
+    ↳ **Description:** A large room furnished with "glass presses" (one specifically marked 'E'), a business table, and a fire in the grate. A cheval-glass (full-length mirror) was brought into the room specifically for the purpose of observing the transformations, as there was no mirror present during the first experiment.
     ↳ **Key Contents (Retrieved by Lanyon):** On Jekyll's urgent request, Dr. Lanyon had the cabinet's lock picked and retrieved a specific drawer from the press marked 'E'. This drawer contained the crucial ingredients for the transformation potion: powders (a white crystalline salt), a phial of blood-red tincture, and Jekyll's personal record book of his experiments, which noted successes ("double") and failures ("total failure!!!").
     ↳ **View:** Three dusty windows, barred with iron, look out onto the court. The court itself is described as "very cool and a little damp, and full of premature twilight." During the "Incident at the Window," the middle of these three windows was half-open.
     ↳ **Significance:** This is Jekyll's private study within the laboratory complex. It is where Utterson finds him "deathly sick" after the Carew murder and suspects the "Hyde" letter was written. During his final period of seclusion, this room becomes his prison; Poole reports that Jekyll confines himself to it entirely, sometimes even sleeping there.
@@ -49,7 +49,7 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 ### ⚙️ **Operational Dynamics** [Strength: Medium]
 *   **Staff:** A "well-dressed, elderly servant" named Poole is the butler. Other staff include a housemaid, a cook, and a footman (Bradshaw).
 *   **Household Protocol Breakdown:** In the final week, the household protocol collapses. The staff, terrified by the events in the cabinet, abandon their duties and huddle together in the main hall "like a flock of sheep."
-*   **Segregation & Isolation:** The occupant of the cabinet becomes completely isolated, communicating only by throwing down notes demanding a specific drug. Meals are left outside the door to be "smuggled in."
+*   **Segregation & Isolation:** The occupant of the cabinet becomes completely isolated, communicating only by throwing down notes. These notes desperately demanded a specific chemical salt, as Jekyll had run out of his original supply. He later discovered that his first batch contained an unknown impurity which was the secret, active ingredient, and all new supplies were useless, trapping him as Hyde. Meals were left outside the door to be "smuggled in."
 *   **Poole's Suspicions:** Poole, after twenty years of service, becomes convinced his master has been "made away with" and that an imposter (whom he suspects is Hyde) is living in the cabinet.
 /END ⚙️ **Operational Dynamics**
 
@@ -62,7 +62,7 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 *   **[The Incident at the Window]** On a Sunday walk, Mr. Utterson and Mr. Enfield stop in the court behind the laboratory. They see Dr. Jekyll at the middle window of his cabinet, looking like a "disconsolate prisoner." After a brief, sad exchange where Jekyll refuses to go out, his face is suddenly overcome with "abject terror and despair," and the window is slammed shut, horrifying the two onlookers.
 
 
-*   **[Lanyon's Mission]** Following an urgent, registered letter from Jekyll (written from a "strange place"), Dr. Lanyon is instructed to go to Jekyll's house. There, he meets Poole, a locksmith, and a carpenter. After two hours of work, they force open the door to the cabinet. Lanyon, acting alone, retrieves a specific drawer from a press (marked 'E') containing chemicals and a notebook, and takes it back to his own home to await Jekyll's messenger (Hyde). This event demonstrates that the cabinet was breached prior to the final night, but under Jekyll's own remote instruction.
+*   **[Lanyon's Mission]** This mission was necessitated by Jekyll's involuntary transformation into Hyde while in Regent's Park. As Hyde, he could not enter the main house without being arrested, and he had previously destroyed the key to the laboratory's street door. Trapped and desperate, he checked into a hotel and wrote to Lanyon, instructing him to break into the cabinet. Lanyon, meeting Poole and a locksmith, forced the cabinet door, retrieved a specific drawer (from press 'E') containing chemicals and a notebook, and took it to his own home to await Jekyll's messenger (Hyde). This event demonstrates the cabinet was breached prior to the final night, but under Jekyll's desperate, remote instruction.
 
 *   **[The Last Night]** Driven by a week of terror, Poole summons Mr. Utterson to the house. The staff are huddled in the hall, and Poole reveals his belief that Jekyll has been murdered and his killer is in the cabinet. They hear strange pacing, weeping, and a voice not Jekyll's. After stationing servants to guard the laboratory's street door, Utterson and Poole force their way into the cabinet with an axe. They discover the body of Edward Hyde, dead by suicide, and documents from Jekyll that promise to explain the mystery. A search reveals no trace of Dr. Jekyll in the building.
 /END 🗺️ **Associated Events & Observations**
@@ -70,4 +70,4 @@ This file serves as the central entity for Dr. Jekyll's residence, a building wi
 {"id":"dr_jekylls_residence","type":"location","keywords":["jekyll","house","residence","laboratory","dissecting room","hyde","square","by-street","poole","dual","door"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's House","The Laboratory"],"type":"location","role":"Physical manifestation of the Jekyll/Hyde duality","strength":"High","hard_cues":["laboratory","cabinet","by-street","Poole","red baize door","Utterson"],"soft_cues":["respectable facade, sinister rear","shattered domestic peace","prison-like cabinet"],"emotional_cues":["abject terror","dreadful expectation"],"related_entities":["dr_jekyll","mr_hyde","mr_utterson","dr_lanyon","poole"],"file":"memories/contexts/dr_jekylls_residence.md"}
+{"name":"Dr. Jekyll's Residence","aliases":["Jekyll's Laboratory"],"type":"location","role":"Architectural symbol of Jekyll/Hyde duality","strength":"High","hard_cues":["by-street door","red baize door","cheval-glass","press E","Poole"],"soft_cues":["handsome facade vs sinister rear","comfort vs decay","Incident at the Window"],"emotional_cues":["abject terror","dreadful expectation","shattered peace"],"related_entities":["dr_jekyll","mr_hyde","mr_utterson","poole","dr_lanyon"],"file":"memories/contexts/dr_jekylls_residence.md"}

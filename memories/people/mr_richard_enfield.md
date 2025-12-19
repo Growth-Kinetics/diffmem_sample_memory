@@ -37,13 +37,13 @@ This file serves as the central entity for Mr. Richard Enfield. It establishes h
 ### 🗓️ **Key Events** [Strength: Low]
 *   **The Story of the Door:**
     ↳ **Observation:** Pointed out a "sinister block of building" to Mr. Utterson during a Sunday walk.
-    ↳ **Narration:** Recounted the story of Mr. Hyde trampling a child, the subsequent confrontation, and the strange payment via a cheque from a prominent third party, which he suspected was blackmail.
+    ↳ **Narration:** Recounted the story of Mr. Hyde trampling a child, the subsequent confrontation, and the strange payment via a cheque from a prominent third party. While Enfield suspected blackmail, Jekyll's confession later revealed that Hyde, being Jekyll's alter-ego, simply retrieved the cheque from Jekyll's own assets to pacify the crowd.
     ↳ **Revelation:** Identified the perpetrator as a man named "Hyde" and described his unsettling appearance to Utterson.
 
 *   **The Incident at the Window:**
     ↳ **Context:** During a subsequent Sunday walk, revealed he now knew the infamous door was a back entrance to Dr. Jekyll's house.
     ↳ **Observation:** Along with Utterson, saw Dr. Jekyll at his window, looking like a "disconsolate prisoner."
-    ↳ **Climax:** Witnessed Jekyll's face contort with "abject terror and despair" before the window slammed shut. The glimpse left both men pale with "an answering horror in their eyes."
+    ↳ **Climax:** Witnessed Jekyll's face contort with "abject terror and despair" before the window slammed shut. Jekyll's confession later clarified this was a moment where he was losing the battle against an involuntary transformation into Hyde. The glimpse left both Enfield and Utterson pale with "an answering horror in their eyes."
     ↳ **Aftermath:** Walked away in stunned silence, merely nodding seriously in response to Utterson's exclamation, "God forgive us."
 /END 🗓️ **Key Events**
 
@@ -56,4 +56,4 @@ This file serves as the central entity for Mr. Richard Enfield. It establishes h
 {"id":"mr_richard_enfield","type":"person","keywords":["enfield","utterson","kinsman","man about town","story of the door","hyde","jekyll","incident at the window","queer street"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Mr. Richard Enfield","type":"human","role":"Utterson's kinsman & companion","strength":"Medium","hard_cues":["Story of the Door","Incident at the Window","Queer Street","man about town"],"soft_cues":["Sunday walks ritual","paradoxical storyteller","ashamed of long tongue"],"emotional_cues":["visceral loathing for Hyde","witnessed abject terror","stunned silence"],"related_entities":["mr_gabriel_john_utterson","mr_hyde","dr_henry_jekyll"],"file":"memories/people/mr_richard_enfield.md"}
+{"name":"Mr. Richard Enfield","type":"human","role":"Kinsman to Utterson, witness to Hyde","strength":"Medium","hard_cues":["Story of the Door","Incident at the Window","Queer Street","Mr. Hyde","Dr. Jekyll","Mr. Utterson"],"soft_cues":["Sunday walks ritual","principled non-interference","man about town"],"emotional_cues":["visceral loathing","moral outrage","ashamed of long tongue"],"related_entities":["mr_gabriel_john_utterson","mr_hyde","dr_henry_jekyll"],"file":"memories/people/mr_richard_enfield.md"}

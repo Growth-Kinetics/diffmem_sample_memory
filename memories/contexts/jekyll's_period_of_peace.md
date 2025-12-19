@@ -6,7 +6,7 @@ This entity documents the temporary, two-month resurgence of Dr. Jekyll's social
 *   **[Event]** A period of apparent peace and social reintegration for Dr. Jekyll.
 *   **[Duration]** More than two months, ending abruptly in mid-January.
 *   **[Trigger]** The complete disappearance of Mr. Hyde following the murder of Sir Danvers Carew. Mr. Utterson considered the death "more than paid for by the disappearance of Mr. Hyde."
-*   **[Conclusion]** The period ends with Jekyll's sudden and permanent self-seclusion, beginning on January 12th, and the subsequent fatal shock experienced by Dr. Lanyon.
+*   **[Conclusion]** The period ends abruptly following an involuntary transformation into Hyde in public (Regent's Park). This event precipitates Jekyll's final, permanent self-seclusion (starting Jan 12th) and leads directly to the encounter that causes Dr. Lanyon's fatal shock.
 /END ⏳ **Core Definition & Timeline**
 
 /START
@@ -16,13 +16,21 @@ This entity documents the temporary, two-month resurgence of Dr. Jekyll's social
 *   **[Demeanor]** His face appeared to "open and brighten," suggesting an "inward consciousness of service" and a state of being "at peace." This marked a stark contrast to his previous state under Hyde's influence.
 /END ✨ **Jekyll's Transformation**
 
+
+/START
+### 🧠 **Jekyll's Internal Perspective (Per His Confession)** [Strength: High]
+*   **[Motivation for Peace]** Following the murder of Sir Danvers Carew, Jekyll was struck by terror and remorse. He "rent the veil of self-indulgence," saw Hyde as "thenceforth impossible," and embraced the "restrictions of natural life" as a "city of refuge," buttressed by the "terrors of the scaffold."
+*   **[Internal Conflict]** While he "daily enjoyed" his beneficent life, he was "still cursed with my duality of purpose." As his penitence wore off, his "lower side... began to growl for licence," leading to minor, secret transgressions in his own person, not as Hyde.
+*   **[The Final Transgression]** The ultimate fall was not a willing return to Hyde, but a minor "condescension to my evil" as an "ordinary secret sinner." While sitting in Regent's Park, a moment of "vainglorious thought" triggered a spontaneous, horrifying transformation into Hyde, permanently destroying the balance of his soul.
+/END 🧠 **Jekyll's Internal Perspective**
+
 /START
 ### 💥 **Climax & Collapse** [Strength: High]
 *   **[Peak of Normalcy]** On January 8th, Jekyll hosted a dinner party for friends, including Utterson and Lanyon. The host's face looked from one to the other "as in the old days when the trio were inseparable friends," marking the high point of his recovery.
-*   **[The Turn]** Just four days later, on January 12th, the door was shut to Utterson. Jekyll was "confined to the house" and saw no one. This sudden return to solitude became permanent.
+*   **[The Turn]** The collapse was triggered by an involuntary transformation into Hyde in Regent's Park. This event destroyed Jekyll's control and made him a fugitive in his own life. The seclusion beginning January 12th was a desperate measure to contain Hyde.
 *   **[Immediate Fallout]**
-    ↳ **Dr. Lanyon:** Suffered a "deep-seated terror of the mind" after an unstated event, leading to his rapid physical decay and death within weeks. He renounced his friendship with Jekyll, regarding him as "dead."
-    ↳ **Dr. Jekyll:** Wrote to Utterson confirming the break with Lanyon was "incurable" and announced his intention to lead a life of "extreme seclusion," alluding to a self-inflicted "punishment and a danger that I cannot name."
+    ↳ **Dr. Lanyon:** After being enlisted by a desperate Hyde to retrieve the transformative drugs, Lanyon witnesses Hyde transform back into Jekyll. This revelation shatters his scientific and moral worldview, causing a "deep-seated terror of the mind" that leads to his rapid death.
+    ↳ **Dr. Jekyll:** Now subject to spontaneous transformations, he is forced into a life of "extreme seclusion." He describes this to Utterson as a "punishment and a danger," the danger being the permanent loss of his original self and the risk of being captured as the murderer Hyde.
 /END 💥 **Climax & Collapse**
 
 /START
@@ -33,7 +41,7 @@ This entity documents the temporary, two-month resurgence of Dr. Jekyll's social
 *   **Mr. Hyde:** His absence is the catalyst for this period of peace.
 /END 🔗 **Associated Entities**
 
-{"id":"jekylls_period_of_peace","type":"event","keywords":["jekyll","peace","two months","hyde disappearance","seclusion","charity","religion","lanyon","utterson","dinner","january 8th","collapse"],"strength":"Low"}
+{"id":"jekylls_period_of_peace","type":"event","keywords":["jekyll","peace","two months","hyde disappearance","seclusion","charity","religion","lanyon","utterson","dinner","january 8th","collapse","confession","remorse","involuntary transformation","regent's park","scaffold"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Jekyll's Period of Peace","aliases":["Jekyll's Resurgence","Two Months of Peace"],"type":"temporal_event","role":"A temporary period of social and moral recovery for Dr. Jekyll.","strength":"Low","hard_cues":["two months","Hyde's disappearance","January 8th dinner","renewed friendships","sudden seclusion","Lanyon's shock"],"soft_cues":["new life","inward consciousness of service","face seemed to open and brighten","return to old ways"],"emotional_cues":["peace","hope","sociability","terror","despair","seclusion"],"related_entities":["dr_henry_jekyll","mr_gabriel_john_utterson","dr_hastie_lanyon","mr_hyde","sir_danvers_carew"],"file":"jekylls_period_of_peace.md"}
+{"name":"Jekyll's Period of Peace","type":"concept","role":"Jekyll's brief moral respite","strength":"Low","hard_cues":["Jekyll","Hyde","two months","Lanyon","Regent's Park"],"file":"memories/contexts/jekyll's_period_of_peace.md"}

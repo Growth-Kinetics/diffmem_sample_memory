@@ -14,13 +14,14 @@ This file serves as the central entity for Mr. Hyde's residence in Soho. It docu
 *   **[Contradiction]** In stark contrast to the squalid neighborhood, the rooms are furnished with "luxury and good taste."
 *   **[Specifics]**
     ↳ **Amenities:** A closet is filled with wine, the plate is silver, and the napery is elegant.
-    ↳ **Decor:** The carpets are of "many plies and agreeable in colour." A "good picture" hangs on the walls, which Utterson presumes is a gift from the connoisseur, Dr. Henry Jekyll.
+        ↳ **Decor:** The carpets are of "many plies and agreeable in colour." A "good picture" hangs on the walls.
+    ↳ **Origin:** The entire residence was furnished by Dr. Jekyll himself, who stated, "I took and furnished that house in Soho." This confirms Mr. Utterson's suspicion that the tasteful decor originated with him.
 /END 🛋️ Interior & Furnishings
 
 /START
 ### 🔍 Crime Scene Evidence [Strength: High]
 *   **[Condition]** The rooms bear "every mark of having been recently and hurriedly ransacked." Clothes are strewn about with pockets inside out, and "lock-fast drawers stood open."
-*   **[Destroyed Evidence]** A "pile of grey ashes" on the hearth indicates that many papers have been burned.
+*   **[Destroyed Evidence]** A "pile of grey ashes" on the hearth indicates that many papers have been burned. Dr. Jekyll's confession confirms this, stating that after the murder he "ran to the house in Soho, and (to make assurance doubly sure) destroyed my papers."
 *   **[Recovered Evidence]**
     ↳ **Financial:** From the embers, Inspector Newcomen disinters the "butt end of a green cheque book." A subsequent bank visit reveals several thousand pounds credited to Hyde.
     ↳ **Murder Weapon:** The "other half of the stick" used to murder Sir Danvers Carew is found behind the door, clinching the case for the police.
@@ -28,12 +29,13 @@ This file serves as the central entity for Mr. Hyde's residence in Soho. It docu
 
 /START
 ### 🔑 Occupancy & Management [Strength: Medium]
-*   **[Primary Occupant]** Mr. Edward Hyde. His habits are "very irregular," and he is "often absent." He was present late on the night of the murder but departed in "less than an hour."
+*   **[Primary Occupant]** Mr. Edward Hyde. His habits are "very irregular," and he is "often absent." Jekyll's confession confirms it was a regular lodging, referring to it as "the little room in Soho where I was accustomed to sleep in the body of Edward Hyde." He was present late on the night of the murder but departed in "less than an hour."
 *   **[Caretaker]** An "ivory-faced and silvery-haired old woman" with an "evil face, smoothed by hypocrisy" but "excellent manners." She manages access to the house.
+    ↳ **Hiring:** Dr. Jekyll confirms he hired her specifically because he "knew [her] to be silent and unscrupulous."
     ↳ **Attitude towards Hyde:** She expresses "odious joy" upon learning Hyde is in trouble, leading Inspector Newcomen to observe he is not a "very popular character."
 /END 🔑 Occupancy & Management
 
 {"id":"hydes_soho_residence","type":"location","keywords":["soho","hyde","residence","ransacked","murder weapon","carew","cheque book","luxury","dismal","newcomen"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Hyde's Soho Residence","aliases":["Hyde's house in Soho"],"type":"location","role":"Mr. Hyde's primary residence and crime scene","strength":"Low","hard_cues":["Soho","ransacked","burned papers","green cheque book","broken cane","murder weapon"],"soft_cues":["luxury and good taste","dismal quarter","nightmare city","ivory-faced woman","gift from Jekyll"],"emotional_cues":["hurried ransacking","odious joy","Utterson's gloom","nightmarish atmosphere"],"related_entities":["mr_hyde","dr_henry_jekyll","mr_utterson","sir_danvers_carew","inspector_newcomen"],"file":"hydes_soho_residence.md"}
+{"name":"Hyde's Soho Residence","aliases":["House in Soho"],"type":"location","role":"Hyde's contradictory hideout & crime scene","strength":"Low","hard_cues":["Soho","Sir Danvers Carew","ransacked rooms","broken cane","green cheque book"],"soft_cues":["squalid exterior vs luxurious interior","chocolate-coloured fog"],"emotional_cues":["gloomy dread","secrecy","nightmarish"],"related_entities":["edward_hyde","dr_jekyll","sir_danvers_carew","mr_utterson"],"file":"memories/contexts/hyde's_soho_residence.md"}

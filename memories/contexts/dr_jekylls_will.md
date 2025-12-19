@@ -14,7 +14,7 @@ This file serves as the central entity for Dr. Jekyll's holographic will, a docu
 /START
 ### ⚖️ **Key Provisions & Clauses** [Strength: High]
 *   **[Inheritance upon Decease]** In the case of the death of Henry Jekyll, all of his possessions are to pass directly into the hands of Edward Hyde.
-*   **[Inheritance upon Disappearance]** In the case of Dr. Jekyll's "disappearance or unexplained absence for any period exceeding three calendar months," the beneficiary was to inherit immediately. This clause is ultimately invoked by Jekyll's final note to Utterson, which declares his imminent "disappearance."
+*   **[Inheritance upon Disappearance]** In the case of Dr. Jekyll's "disappearance or unexplained absence for any period exceeding three calendar months," the beneficiary was to inherit immediately. Jekyll's confession reveals this was a legal safeguard to allow him to fully become Hyde without pecuniary loss. It is invoked by Jekyll's final note, which recognizes the permanent, involuntary transformation into Hyde as his final "disappearance."
 *   **[Beneficiary Obligations]** The inheritance is granted "free from any burthen or obligation" with the minor exception of paying "a few small sums to the members of the doctor’s household."
 /END ⚖️ **Key Provisions & Clauses**
 
@@ -25,7 +25,7 @@ This file serves as the central entity for Dr. Jekyll's holographic will, a docu
 *   **[Content]** The letter reassures Jekyll that Hyde has a "sure" means of escape and that Jekyll need not worry for his safety.
 *   **[Provenance Issues]** Jekyll claims to have burned the envelope, stating it had no postmark and was "handed in." However, Poole, the butler, is "positive nothing had come" except by post.
 *   **[Handwriting Analysis]** Utterson's clerk, Mr. Guest, a handwriting expert, compares the letter to an invitation from Jekyll. He concludes the two hands are "in many points identical: only differently sloped."
-*   **[Utterson's Conclusion]** This discovery leads Utterson to the horrifying belief that "Henry Jekyll forge for a murderer," deepening the mystery and suggesting Jekyll is covering for Hyde, or that their connection is more profound and sinister than imagined.
+*   **[Confirmed Forgery]** Jekyll's confession confirms he wrote the letter himself. After the Carew murder, committed as Hyde, he reverted to Jekyll and wrote the note in Hyde's hand (a "differently sloped" version of his own) to create a false trail. This act was not to cover for a separate person, but to manage the consequences of his own actions as Hyde.
 /END ✉️ **The "Hyde" Letter**
 
 
@@ -53,19 +53,19 @@ This file serves as the central entity for Dr. Jekyll's holographic will, a docu
 *   **The Final Night:** The mystery culminates when a terrified Poole summons Utterson to Jekyll's home. Poole is convinced Jekyll has been murdered and an imposter is locked in the cabinet.
 *   **The Siege:** Utterson and Poole break down the cabinet door after hearing Hyde's voice inside.
 *   **The Discovery:** They find the body of Edward Hyde, dead by suicide, dressed in Jekyll's oversized clothes. There is no trace of Henry Jekyll.
-*   **The Will Superseded:** On Jekyll's desk, they find a new will that replaces Hyde's name with Utterson's, shocking the lawyer.
+*   **The Will Superseded:** On Jekyll's desk, they find a new will. This is Jekyll's final act as himself, written in the brief moments afforded by the last of the old chemical salts, to disinherit the monstrous Hyde and leave his fortune to his friend, Utterson.
 *   **The Path to Revelation:** Alongside the new will is a note from Jekyll declaring his "disappearance" and instructing Utterson to read Lanyon's narrative, followed by Jekyll's own enclosed confession. This act directly invokes the will's most mysterious clause.
 *   **Climax:** The discovery of Hyde's body and Jekyll's final documents transforms the situation. The legal instrument of the will becomes the key that unlocks the final two narratives, promising to explain the entire tragedy.
 /END ⚡ **Context & Impact**
 
 /START
 ### 🔗 **Associated Entities** [Strength: High]
-*   **Dr. Henry Jekyll:** [Role: Testator, Disappeared] The author of both wills. His final note declares his "disappearance," leaving behind a full confession to explain his fate.
-*   **Mr. Edward Hyde:** [Role: Original Beneficiary, Deceased] Found dead by suicide in Jekyll's cabinet. He is replaced as beneficiary in the final version of the will.
+*   **Dr. Henry Jekyll:** [Role: Testator, Originator of Hyde] The original persona, a composite of good and evil. He created the will as a legal tool for his transformations and authored the final confession to explain his "dreadful shipwreck." His "disappearance" is his final, irreversible transformation into Hyde.
+*   **Mr. Edward Hyde:** [Role: Original Beneficiary, Alter-Ego, Deceased] The pure evil, repressed side of Dr. Jekyll, given physical form by a chemical potion. He was the intended beneficiary of the original will so that Jekyll's darker side could act with financial impunity. He ultimately commits suicide out of terror of the gallows.
 *   **Mr. Utterson:** [Role: Custodian, Final Beneficiary, & Executor] The keeper of the original will and Lanyon's narrative. He is named the sole beneficiary in Jekyll's final will and is tasked with uncovering the truth by reading the final documents.
 /END 🔗 **Associated Entities**
 
 {"id":"dr_jekylls_will","type":"document","keywords":["will","holographic","jekyll","hyde","inheritance","disappearance","utterson","benefactor","eyesore"],"strength":"High"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Jekyll's Will","type":"concept","role":"Holographic will & central mystery key","strength":"High","hard_cues":["Jekyll","Hyde","Utterson","beneficiary","disappearance clause","Lanyon"],"soft_cues":["sinister legal instrument","Utterson's dread","unlocks confession"],"emotional_cues":["deepening dread","shocking revelation"],"related_entities":["dr_henry_jekyll","mr_edward_hyde","mr_utterson","dr_lanyon"],"file":"memories/contexts/dr_jekylls_will.md"}
+{"name":"Dr. Jekyll's Will","aliases":["The Will"],"type":"concept","role":"Legal instrument for Jekyll's transformation & inheritance","strength":"High","hard_cues":["holographic will","Henry Jekyll","Edward Hyde","Gabriel John Utterson","disappearance clause","beneficiary"],"soft_cues":["a legal eyesore","safeguard for duality","key to final confession"],"emotional_cues":["professional indignation","dreadful puzzle","tragic finality"],"related_entities":["dr_henry_jekyll","mr_edward_hyde","mr_gabriel_john_utterson","dr_hastie_lanyon"],"file":"memories/contexts/dr_jekylls_will.md"}
