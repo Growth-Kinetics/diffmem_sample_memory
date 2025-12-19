@@ -6,7 +6,7 @@ This file serves as the central entity for Mr. Utterson, a lawyer of Victorian L
 *   **[Name]** Mr. Gabriel John Utterson | **[Key Roles]** Lawyer, Friend | **[Key Traits]** Austere, reserved, tolerant, loyal, non-judgmental, "somehow lovable".
     ↳ **Physicality:** Rugged countenance, lean, long, dusty, and dreary. Never smiles.
     ↳ **Emotional Signature:** Undemonstrative and backward in sentiment. An "eminently human" quality can be observed in his eye, especially when pleased, but is never verbalized.
-    ↳ **Communication Style:** Cold, scanty, and embarrassed in discourse. Expresses more through loyal actions and consistent demeanor than through words.
+    ↳ **Communication Style:** Cold, scanty, and embarrassed in discourse. Expresses more through loyal actions than words. Despite this, his "unobtrusive company" and "rich silence" are highly valued by friends like Dr. Jekyll, who find his presence sobering after social exertion.
     ↳ **Thinking Pattern:** Analytical and observant. Prone to deep consideration and values discretion.
 /END 🌟 **Core Identity Mapping**
 
@@ -15,8 +15,8 @@ This file serves as the central entity for Mr. Utterson, a lawyer of Victorian L
 *   **General Pattern:** Tends to be the "last reputable acquaintance and the last good influence" in the lives of "downgoing men." He offers unwavering, non-judgmental support.
 *   **Friendship Formation:** Accepts his friendly circle "ready-made from the hands of opportunity." His affections are a "growth of time," like ivy, implying no specific "aptness in the object."
 *   **Known Associates:**
-    ↳ **Dr. Henry Jekyll:** One of Utterson's oldest friends. Utterson is the keeper of his will and is deeply troubled by its contents, which name Mr. Edward Hyde as the sole beneficiary. He fears Jekyll is in "deep waters," possibly being blackmailed for a past sin.
-    ↳ **Dr. Lanyon:** An old friend of both Utterson and Jekyll from school and college. A hearty, boisterous, and dapper gentleman. His friendship with Jekyll has become strained due to a disagreement over "unscientific balderdash," and they have seen little of each other for over ten years.
+    ↳ **Dr. Henry Jekyll:** One of Utterson's oldest friends, for whom Jekyll cherishes a "sincere and warm affection." Utterson is the keeper of his will and is deeply troubled by its contents. When confronted, Jekyll grows pale and refuses to discuss Hyde, calling his position "very strange" and one that "cannot be mended by talking." He reassures Utterson that "the moment I choose, I can be rid of Mr. Hyde" and extracts a promise from the lawyer to "get his rights for him" should Jekyll be "taken away." This interaction deepens Utterson's concern, despite Jekyll's assurances.
+    ↳ **Dr. Lanyon:** An old friend of both Utterson and Jekyll from school and college. A hearty, boisterous, and dapper gentleman. His friendship with Jekyll has become strained due to a disagreement over Jekyll's "scientific heresies." Jekyll now views Lanyon with disappointment, calling him a "hide-bound pedant... an ignorant, blatant pedant." They have seen little of each other for over ten years.
     ↳ **Mr. Richard Enfield:** A distant kinsman and "well-known man about town." Their bond is characterized by silent Sunday walks which they both value immensely.
     ↳ **Mr. Edward Hyde:** The beneficiary of Jekyll's will. Utterson develops an immediate and profound sense of "disgust, loathing and fear" upon meeting him. He perceives Hyde as "hardly human" and "troglodytic," with "Satan's signature upon a face."
     ↳ **Poole:** Dr. Jekyll's loyal and well-dressed butler. He provides Utterson with information regarding Mr. Hyde's access to the house and the staff's orders to obey him.
@@ -52,9 +52,11 @@ This file serves as the central entity for Mr. Utterson, a lawyer of Victorian L
 *   **Encounter with Hyde:** Utterson confronts Hyde as he is entering the by-street door. Hyde is described as "pale and dwarfish," giving an impression of deformity. The encounter fills Utterson with "disgust, loathing and fear." Hyde provides his address in Soho before quickly disappearing into the house. Utterson concludes he has seen "Satan's signature upon a face."
 *   **Confirmation from Poole:** Utterson proceeds to Jekyll's main residence and speaks with the butler, Poole. Poole confirms that Hyde has a key, comes and goes via the laboratory (the by-street door), and that the entire staff has orders to obey him.
 *   **Formulation of a Theory:** Utterson concludes that Jekyll is being blackmailed for a past sin and that Hyde, aware of the will, poses a mortal danger to his friend. This solidifies his resolve to intervene and help Jekyll.
+
+*   **The Dinner with Jekyll:** After a dinner party, Utterson confronts Jekyll about the will and Mr. Hyde. Jekyll becomes visibly distressed, refuses to confide in Utterson, and dismisses the lawyer's fears by claiming he can be "rid of Mr. Hyde" at any moment. He then makes Utterson promise to ensure justice for Hyde and protect his rights if Jekyll were to disappear, leaving Utterson to reluctantly agree.
 /END 📓 **Noteworthy Events & Observations**
 
 {"id":"mr_utterson","type":"person","keywords":["lawyer","utterson","jekyll","hyde","lanyon","poole","will","seek","austere","tolerant","cain's heresy","london"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Mr. Gabriel John Utterson","aliases":["Mr. Seek"],"type":"human","role":"Austere Victorian lawyer, loyal friend","strength":"Low","hard_cues":["Jekyll's Will","London","Cain's heresy","Mr. Hyde","Poole"],"soft_cues":["silent Sunday walks","drinks gin alone","austere & reserved"],"emotional_cues":["loyal concern","anxiety over will","disgust for Hyde"],"related_entities":["dr_henry_jekyll","mr_edward_hyde","dr_lanyon","mr_richard_enfield","poole"],"file":"memories/people/mr_gabriel_john_utterson.md"}
+{"name":"Mr. Gabriel John Utterson","aliases":["Mr. Seek"],"type":"human","role":"Victorian lawyer and loyal friend","strength":"Medium","hard_cues":["Lawyer","Jekyll's Will","Edward Hyde","Lanyon","Victorian London","Cain's heresy"],"soft_cues":["austere & reserved","unwavering loyalty","rich silence","haunts the door"],"emotional_cues":["deep concern for Jekyll","profound disgust for Hyde"],"related_entities":["dr_henry_jekyll","mr_edward_hyde","dr_lanyon","mr_richard_enfield","poole"],"file":"memories/people/mr_gabriel_john_utterson.md"}

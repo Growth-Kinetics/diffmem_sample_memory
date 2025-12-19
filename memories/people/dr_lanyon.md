@@ -13,7 +13,9 @@ This file serves as the central entity for Dr. Lanyon, a prominent London doctor
 /START
 ### 🔗 **Relationship Dynamics** [Strength: Medium]
 *   **Mr. Utterson:** An old and close friend from school and college. Their bond is one of genuine warmth, mutual respect, and enjoyment of each other's company.
-*   **Dr. Henry Jekyll:** [Status: Estranged] An old school friend, but Lanyon has seen "devilish little" of him for over ten years. The friendship fractured due to Jekyll becoming "too fanciful" and engaging in what Lanyon considers "unscientific balderdash." Lanyon believes Jekyll went "wrong in mind," but still professes to take an interest in him "for old sake's sake."
+*   **Dr. Henry Jekyll:** [Status: Estranged] An old school friend, but Lanyon has seen "devilish little" of him for over ten years. The friendship fractured due to Jekyll becoming "too fanciful" and engaging in what Lanyon considers "unscientific balderdash."
+    ↳ **Lanyon's Perspective:** He believes Jekyll went "wrong in mind," but still professes to take an interest in him "for old sake's sake."
+    ↳ **Jekyll's Perspective:** Jekyll, in turn, views Lanyon as a "hide-bound pedant" and an "ignorant, blatant pedant" for dismissing his work as "scientific heresies." Despite this, Jekyll acknowledges Lanyon is an "excellent fellow" and expresses disappointment, stating he was "never more disappointed in any man than Lanyon."
 *   **Mr. Hyde:** [Status: Unknown] Lanyon has no knowledge of this person, stating he has "Never heard of him." He notes that Hyde must have appeared in Jekyll's life "since my time," referring to the period after their estrangement.
 /END 🔗 **Relationship Dynamics**
 
@@ -40,4 +42,4 @@ This file serves as the central entity for Dr. Lanyon, a prominent London doctor
 {"id":"dr_lanyon","type":"person","keywords":["doctor","lanyon","cavendish square","hearty","boisterous","jekyll","unscientific balderdash","estrangement"],"strength":"Low"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Lanyon","aliases":[],"type":"human","role":"Doctor & estranged friend of Dr. Jekyll","strength":"Low","hard_cues":["Doctor","Cavendish Square","conventional science","estranged from Jekyll"],"soft_cues":["Hearty","dapper","boisterous manner","prematurely white hair","theatrical geniality"],"emotional_cues":["Passionate about science","anger at 'balderdash'","genuine warmth to friends"],"related_entities":["mr_utterson","dr_henry_jekyll","mr_hyde"],"file":"dr_lanyon.md"}
+{"name":"Dr. Lanyon","type":"human","role":"Doctor, rationalist, Jekyll's estranged friend","strength":"Low","hard_cues":["doctor","Cavendish Square","Henry Jekyll","Utterson","unscientific balderdash"],"soft_cues":["hearty and boisterous","scientific traditionalist"],"emotional_cues":["principled anger"],"related_entities":["mr_utterson","dr_henry_jekyll","mr_hyde"],"file":"memories/people/dr_lanyon.md"}

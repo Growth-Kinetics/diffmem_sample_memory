@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline/2025-02.md",
+                "file": "mr_utterson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02"
+              "title": "mr_utterson"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "timeline/2025-02.md",
+                "file": "mr_utterson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02"
+              "title": "Backlinks for mr_utterson"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "timeline/2025-02.md",
+                "file": "mr_utterson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02"
+              "title": "Outgoing links from mr_utterson"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "timeline/2025-02.md",
+                "file": "mr_utterson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02"
+              "title": "Outline of mr_utterson"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "a27455e6a8adba70",
   "lastOpenFiles": [
+    "timeline/2025-03.md",
+    "sessions/2025-03-01_ab3a5078-e97c-4d73-8a74-72336d00e6d7.txt",
+    "timeline/2025-02.md",
     "timeline/2025-01.md",
     "timeline/2025-12.md",
-    "timeline/2025-02.md",
     "memories/people/dr_henry_jekyll.md",
     "mr_utterson.md",
     "memories/contexts/dr_jekylls_residence.md",

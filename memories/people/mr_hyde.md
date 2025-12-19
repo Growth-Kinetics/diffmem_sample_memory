@@ -29,15 +29,15 @@ This file serves as the central entity for Mr. Hyde, a mysterious and malevolent
 *   **The Laboratory Door:** The "sinister block of building" Hyde has a key to is the old dissecting room, which is part of Dr. Jekyll's property. He comes and goes by this entrance, rarely using the main house.
 *   **The Cheque:** The cheque for £90 was signed by Dr. Jekyll, a highly reputable man. This financial link is now understood in the context of the will.
 *   **Address:** Provided an address in Soho to Mr. Utterson.
-*   **Prevailing Hypothesis (Utterson):** Utterson has moved beyond simple blackmail. He now fears that Hyde, knowing the terms of the will, may "grow impatient to inherit" and murder Dr. Jekyll. He believes Jekyll is being punished for "the ghost of some old sin."
+*   **Jekyll's Reassurance & Utterson's Promise:** During a private conversation, Dr. Jekyll becomes visibly distressed when Hyde is mentioned. He describes his own position as "painfully situated" and "very strange," but assures Utterson, "the moment I choose, I can be rid of Mr. Hyde." He then extracts a promise from Utterson to "bear with him [Hyde] and get his rights for him" should Jekyll be "taken away," adding a layer of obligation to Utterson's investigation.
 /END 🔑 **Mysterious Connections**
 
 /START
 ### 🔗 **Relationship Dynamics** [Strength: Medium]
 *   **General Pattern:** Evokes universal hatred, disgust, and fear. No positive relationships have been observed.
 *   **Known Associates:**
-    ↳ **Dr. Henry Jekyll:** Hyde is Jekyll's "friend and benefactor" and sole heir. Jekyll has given Hyde a key to his laboratory and issued orders to his entire household staff that they must obey Hyde. This indicates a relationship of profound trust or profound bondage.
-    ↳ **Mr. Utterson:** Has confronted Hyde directly. The interaction was tense and hostile, ending with Hyde accusing Utterson of lying.
+    ↳ **Dr. Henry Jekyll:** The relationship is intensely personal and contradictory. While Hyde is his heir, Jekyll claims he can be "rid of Mr. Hyde" at will. He refers to Hyde as "poor Hyde" and expresses a "very great, a very great interest" in him. Jekyll describes his situation as "painfully situated" and "very strange," and has extracted a promise from Utterson to ensure justice for Hyde after his death, suggesting a deep, albeit mysterious, sense of responsibility.
+    ↳ **Mr. Utterson:** After a tense direct confrontation with Hyde, Utterson has now been bound by a promise to Dr. Jekyll to protect Hyde's inheritance and rights. While Utterson admits he "can't pretend that I shall ever like him," he has agreed to provide justice for Hyde's sake, placing him in a position of unwilling stewardship.
     ↳ **Poole (Jekyll's Butler):** Confirms that Hyde has a key and that the staff are under orders to obey him. Notes that Hyde "never dines here" and is rarely seen in the main part of the house.
     ↳ **Dr. Lanyon:** An old friend of Jekyll's, but has never heard of Mr. Hyde.
 /END 🔗 **Relationship Dynamics**
@@ -58,4 +58,4 @@ This file serves as the central entity for Mr. Hyde, a mysterious and malevolent
 {"id":"mr_hyde","type":"person","keywords":["hyde","jekyll","will","benefactor","detestable","deformed","trampled","juggernaut","satan","troglodytic","soho","cheque"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Mr. Hyde","type":"human","role":"Malevolent antagonist, Jekyll's heir","strength":"Low","hard_cues":["Dr. Jekyll","London","Soho","trampling incident","Jekyll's will","beneficiary","laboratory door"],"soft_cues":["impression of deformity","hardly human","murderous timidity","troglodytic"],"emotional_cues":["universal loathing","primal fear","savage aggression"],"related_entities":["dr_henry_jekyll","mr_utterson","mr_enfield"],"file":"memories/people/mr_hyde.md"}
+{"name":"Mr. Hyde","type":"human","role":"Malevolent antagonist, Jekyll's heir","strength":"Medium","hard_cues":["Dr. Jekyll's will","London","Soho","trampled child","Juggernaut","troglodytic"],"soft_cues":["impression of deformity","Satan's signature","hissing breath"],"emotional_cues":["universal loathing","disgust and fear","murderous boldness"],"related_entities":["dr_henry_jekyll","mr_utterson","mr_enfield"],"file":"memories/people/mr_hyde.md"}

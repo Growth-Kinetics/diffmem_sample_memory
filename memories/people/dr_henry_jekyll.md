@@ -5,15 +5,16 @@ This file serves as the central entity for Dr. Henry Jekyll. It establishes his 
 ### 🌟 **Core Identity Mapping** [ALWAYS_LOAD] [Strength: Medium]
 *   **[Name]** Dr. Henry Jekyll | **[Titles]** M.D., D.C.L., L.L.D., F.R.S. | **[Key Roles]** Doctor, Scientist, Friend.
     ↳ **Professional Standing:** A wealthy, successful, and highly credentialed doctor residing in the "citadel of medicine," Cavendish Square.
-    ↳ **Inferred Traits:** Secretive, scientifically ambitious, and possessing an appreciation for comfort and aesthetics (e.g., his "pleasantest" hall).
+    ↳ **Physical & Personal Traits:** A large, well-made, smooth-faced man of fifty. Described as having "every mark of capacity and kindness" and cherishing a "sincere and warm affection" for friends like Mr. Utterson.
+    ↳ **Inferred Traits:** Secretive and scientifically ambitious. He is deeply distressed by any mention of Mr. Hyde, becoming pale with a "blackness about his eyes," and describes his own situation as "painfully situated" and "very strange."
     ↳ **Past Behavior:** Remembered by friends as having been "wild when he was young." Mr. Utterson speculates his current predicament may be tied to an "old sin" or "concealed disgrace."
 /END 🌟 **Core Identity Mapping**
 
 /START
 ### 🔗 **Relationship Dynamics** [Strength: High]
-*   **Mr. Edward Hyde:** [Status: Troubling Connection] Designated in Jekyll's will as his "friend and benefactor" and sole heir. Hyde possesses a key to Jekyll's laboratory and has been given full authority over the household staff, who are ordered to obey him. He does not dine or socialize in the main house.
-*   **Mr. Gabriel John Utterson:** An old friend and his lawyer. Utterson is the custodian of Jekyll's will, which he considers an "eyesore." He is deeply concerned for Jekyll's safety and reputation, referring to him as "poor Harry Jekyll" and believing him to be in "deep waters."
-*   **Dr. Hastie Lanyon:** An old friend from school and college. Their relationship is now estranged. Lanyon states it has been "more than ten years since Henry Jekyll became too fanciful for me," citing a fundamental disagreement over "unscientific balderdash" that he believes indicates Jekyll is "wrong in mind."
+*   **Mr. Edward Hyde:** [Status: Deeply Complicated Connection] Designated as Jekyll's heir. Jekyll claims he "can be rid of Mr. Hyde" the moment he chooses, yet also expresses a "very great interest in poor Hyde" and extracts a promise from Utterson to ensure Hyde's rights are protected after his death. The topic of Hyde causes Jekyll extreme physical and emotional distress. Hyde has a key to the laboratory and authority over the staff, but does not socialize in the main house.
+*   **Mr. Gabriel John Utterson:** An old friend and his lawyer, for whom Jekyll cherishes a "sincere and warm affection." Jekyll expresses absolute trust in him, stating, "I would trust you before any man alive." Utterson is the custodian of Jekyll's will and, at Jekyll's pleading, promises to ensure justice for Hyde should Jekyll be "taken away."
+*   **Dr. Hastie Lanyon:** An old friend from school and college, now estranged. Lanyon considers Jekyll's work "unscientific balderdash." Jekyll reciprocates the sentiment, calling Lanyon a "hide-bound pedant," an "ignorant, blatant pedant," and expresses he was "never more disappointed in any man than Lanyon" due to his friend's dismissal of his "scientific heresies."
 *   **Poole:** Jekyll's loyal, elderly butler. He confirms that the household staff have orders to obey Mr. Hyde.
 /END 🔗 **Relationship Dynamics**
 
@@ -40,4 +41,4 @@ This file serves as the central entity for Dr. Henry Jekyll. It establishes his 
 {"id":"dr_henry_jekyll","type":"person","keywords":["doctor","jekyll","hyde","will","lanyon","utterson","fanciful","unscientific","laboratory","disappearance"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Henry Jekyll","aliases":["Harry Jekyll"],"type":"human","role":"Wealthy doctor with controversial scientific pursuits","strength":"Medium","hard_cues":["Doctor","M.D.","F.R.S.","will","laboratory","Cavendish Square","unscientific balderdash"],"soft_cues":["Wild when young","old sin","fanciful","wrong in mind","pet fancy for his hall"],"emotional_cues":["Estranged from Lanyon","deep trust in Hyde (inferred)","secretive"],"related_entities":["mr_edward_hyde","mr_utterson","dr_lanyon","poole"],"file":"dr_henry_jekyll.md"}
+{"name":"Dr. Henry Jekyll","aliases":["Jekyll"],"type":"human","role":"Respected doctor with a dark secret","strength":"Low","hard_cues":["Edward Hyde","Utterson","Lanyon","will","laboratory","disappearance"],"soft_cues":["scientific heresies","painfully situated","old sin"],"emotional_cues":["deep distress","warm affection","scientific ambition"],"related_entities":["mr_edward_hyde","mr_gabriel_john_utterson","dr_hastie_lanyon"],"file":"memories/people/dr_henry_jekyll.md"}
