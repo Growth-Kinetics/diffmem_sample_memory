@@ -1,34 +1,39 @@
 # Memory Index for mr_utterson
 
-Generated: 2025-12-19 03:46:29
-Total entities: 23
+Generated: 2025-12-19 03:51:46
+Total entities: 26
 
 ## Entity Index (by memory strength)
 
-### Mr. Gabriel John Utterson (human)
+### Gabriel John Utterson (human)
 - **File**: `memories/people/mr_gabriel_john_utterson.md`
-- **Strength**: High (Score: 0.845)
-```{'name': 'Mr. Gabriel John Utterson', 'aliases': ['Utterson', 'Mr. Seek'], 'type': 'human', 'role': "Victorian lawyer; Dr. Jekyll's loyal friend", 'strength': 'High', 'hard_cues': ["Jekyll's will", 'Carew murder', 'Incident at the Window', "Lanyon's letter", 'handwriting analysis', 'Soho'], 'soft_cues': ['austere & reserved', 'somehow lovable', 'last good influence', 'silent Sunday walks'], 'emotional_cues': ['unwavering loyalty', 'growing dread', 'professional discretion', 'horrified discovery'], 'related_entities': ['dr_henry_jekyll', 'mr_edward_hyde', 'dr_lanyon', 'mr_richard_enfield', 'poole', 'mr_guest'], 'file': 'memories/people/mr_gabriel_john_utterson.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 6, 'memory_strength': 0.845}```
+- **Strength**: High (Score: 0.892)
+```{'name': 'Gabriel John Utterson', 'aliases': ['Mr. Seek'], 'type': 'human', 'role': 'Victorian lawyer investigating Jekyll & Hyde', 'strength': 'High', 'hard_cues': ['lawyer', 'Dr. Jekyll', 'Mr. Hyde', "Jekyll's will", 'Poole', 'Dr. Lanyon', 'Carew murder'], 'soft_cues': ['austere', 'loyal', 'breaks down door'], 'emotional_cues': ['deep concern', 'horror'], 'related_entities': ['dr_henry_jekyll', 'mr_edward_hyde', 'dr_lanyon', 'poole'], 'file': 'memories/people/mr_gabriel_john_utterson.md', 'last_update': '2025-12-19 03:46:32 +0100', 'number_of_edits': 7, 'memory_strength': 0.892}```
 
 ### Mr. Hyde (human)
 - **File**: `memories/people/mr_hyde.md`
-- **Strength**: High (Score: 0.845)
-```{'name': 'Mr. Hyde', 'type': 'human', 'role': 'Malevolent murderer & fugitive', 'strength': 'High', 'hard_cues': ["Dr. Jekyll's will", 'Sir Danvers Carew', 'murder', 'cane weapon', 'Soho lodgings', 'trampled girl'], 'soft_cues': ['troglodytic presence', 'nameless deformity', "Satan's signature"], 'emotional_cues': ['universal loathing', 'ape-like fury', 'abject terror'], 'related_entities': ['dr_henry_jekyll', 'mr_utterson', 'sir_danvers_carew', 'dr_lanyon'], 'file': 'memories/people/mr_hyde.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 6, 'memory_strength': 0.845}```
+- **Strength**: High (Score: 0.892)
+```{'name': 'Mr. Hyde', 'type': 'human', 'role': 'Malevolent antagonist, murderer, fugitive', 'strength': 'High', 'hard_cues': ['Dr. Jekyll', 'Sir Danvers Carew', 'murder', 'cane', 'Soho', 'suicide', 'poison'], 'soft_cues': ['ape-like fury', 'troglodytic', 'down-right detestable', 'savage laugh'], 'emotional_cues': ['deep-seated loathing', 'disgust and fear', 'abject terror'], 'related_entities': ['dr_henry_jekyll', 'mr_utterson', 'sir_danvers_carew', 'poole', 'dr_lanyon'], 'file': 'memories/people/mr_hyde.md', 'last_update': '2025-12-19 03:46:32 +0100', 'number_of_edits': 7, 'memory_strength': 0.892}```
 
 ### Dr. Henry Jekyll (human)
 - **File**: `memories/people/dr_henry_jekyll.md`
-- **Strength**: High (Score: 0.789)
-```{'name': 'Dr. Henry Jekyll', 'aliases': [], 'type': 'human', 'role': 'Wealthy doctor with a dark secret', 'strength': 'High', 'hard_cues': ['Edward Hyde', 'The Will', 'Dr. Lanyon', 'Mr. Utterson', 'laboratory', 'forgery'], 'soft_cues': ['voluntary bondage', 'unscientific balderdash', 'old sin'], 'emotional_cues': ['abject terror', 'infinite sadness', 'warm affection'], 'related_entities': ['edward_hyde', 'gabriel_john_utterson', 'hastie_lanyon'], 'file': 'memories/people/dr_henry_jekyll.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 5, 'memory_strength': 0.789}```
+- **Strength**: High (Score: 0.845)
+```{'name': 'Dr. Henry Jekyll', 'aliases': ['Edward Hyde'], 'type': 'human', 'role': 'Respected doctor with a dark secret', 'strength': 'High', 'hard_cues': ['will', 'confession', 'laboratory', 'Cavendish Square', 'suicide', 'pure chemical'], 'soft_cues': ['duality of man', 'concealed disgrace', 'startling blasphemies'], 'emotional_cues': ['scientific ambition', 'desperate secrecy', 'profound shock'], 'related_entities': ['gabriel_john_utterson', 'hastie_lanyon', 'poole'], 'file': 'memories/people/dr_henry_jekyll.md', 'last_update': '2025-12-19 03:46:32 +0100', 'number_of_edits': 6, 'memory_strength': 0.845}```
+
+### Dr. Jekyll's Residence (location)
+- **File**: `memories/contexts/dr_jekylls_residence.md`
+- **Strength**: Medium (Score: 0.721)
+```{'name': "Dr. Jekyll's Residence", 'aliases': ["Jekyll's House", 'The Laboratory'], 'type': 'location', 'role': "Building embodying Jekyll's dual nature.", 'strength': 'Medium', 'hard_cues': ['Jekyll', 'Hyde', 'laboratory', 'cabinet', 'Poole', 'red baize door', 'by-street'], 'soft_cues': ['Respectable facade, sinister rear', 'architectural duality'], 'emotional_cues': ['abject terror', 'dread', 'sinister'], 'related_entities': ['dr_jekyll', 'mr_hyde', 'mr_utterson', 'poole'], 'file': 'memories/contexts/dr_jekylls_residence.md', 'last_update': '2025-12-19 03:46:32 +0100', 'number_of_edits': 4, 'memory_strength': 0.721}```
 
 ### Dr. Jekyll's Will (concept)
 - **File**: `memories/contexts/dr_jekylls_will.md`
 - **Strength**: High (Score: 0.721)
-```{'name': "Dr. Jekyll's Will", 'aliases': ["Jekyll's Will"], 'type': 'concept', 'role': 'Holographic will leaving estate to Edward Hyde', 'strength': 'High', 'hard_cues': ['holographic will', 'Edward Hyde', 'beneficiary', 'disappearance clause', 'Utterson', "Lanyon's narrative"], 'soft_cues': ["lawyer's eyesore", 'professional offense', 'sinister bond'], 'emotional_cues': ['dread', 'horror', 'unnerving mystery'], 'related_entities': ['dr_henry_jekyll', 'mr_edward_hyde', 'mr_utterson', 'dr_lanyon'], 'file': 'memories/contexts/dr_jekylls_will.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 4, 'memory_strength': 0.721}```
+```{'name': "Dr. Jekyll's Will", 'type': 'concept', 'role': 'Holographic will & central mystery key', 'strength': 'High', 'hard_cues': ['Jekyll', 'Hyde', 'Utterson', 'beneficiary', 'disappearance clause', 'Lanyon'], 'soft_cues': ['sinister legal instrument', "Utterson's dread", 'unlocks confession'], 'emotional_cues': ['deepening dread', 'shocking revelation'], 'related_entities': ['dr_henry_jekyll', 'mr_edward_hyde', 'mr_utterson', 'dr_lanyon'], 'file': 'memories/contexts/dr_jekylls_will.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 4, 'memory_strength': 0.721}```
 
-### Dr. Jekyll's Residence (location)
-- **File**: `memories/contexts/dr_jekylls_residence.md`
+### The Story of the Door (concept)
+- **File**: `memories/contexts/the_story_of_the_door.md`
 - **Strength**: Medium (Score: 0.634)
-```{'name': "Dr. Jekyll's Residence", 'aliases': ["Jekyll's House", 'The Laboratory'], 'type': 'location', 'role': 'Physical symbol of Jekyll/Hyde duality', 'strength': 'Medium', 'hard_cues': ['Jekyll', 'Hyde', 'Poole', 'Utterson', 'laboratory', 'cabinet', 'by-street door'], 'soft_cues': ['dual facades', 'respectable front, sinister rear', 'a house divided'], 'emotional_cues': ['sinister dread', 'abject terror', 'disconsolate prisoner'], 'related_entities': ['dr_jekyll', 'mr_hyde', 'mr_utterson', 'poole'], 'file': 'memories/contexts/dr_jekylls_residence.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 3, 'memory_strength': 0.634}```
+```{'name': 'The Story of the Door', 'type': 'concept', 'role': 'Narrative introducing Hyde, a sinister door, and the Jekyll blackmail theory.', 'strength': 'Medium', 'hard_cues': ['Enfield', 'Hyde', 'trampled girl', 'cheque', 'Jekyll', 'London', 'Incident at the Window'], 'soft_cues': ['sinister door', 'Queer Street', 'sordid negligence'], 'emotional_cues': ['inexplicable revulsion', 'abject terror'], 'related_entities': ['mr_hyde', 'mr_enfield', 'mr_utterson', 'dr_jekyll', 'dr_lanyon', 'poole'], 'file': 'memories/contexts/the_story_of_the_door.md', 'last_update': '2025-12-19 03:46:32 +0100', 'number_of_edits': 3, 'memory_strength': 0.634}```
 
 ### Utterson's Chambers (location)
 - **File**: `memories/contexts/utterson's_chambers.md`
@@ -38,12 +43,17 @@ Total entities: 23
 ### Dr. Lanyon (human)
 - **File**: `memories/people/dr_lanyon.md`
 - **Strength**: Medium (Score: 0.634)
-```{'name': 'Dr. Lanyon', 'type': 'human', 'role': "Rationalist doctor, doomed by Jekyll's secret", 'strength': 'Medium', 'hard_cues': ['doctor', 'Cavendish Square', 'shock', 'posthumous letter', 'rationalist', 'death-warrant'], 'soft_cues': ['hearty to horrified', 'scientific dogma', 'citadel of medicine'], 'emotional_cues': ['deep-seated terror', 'revulsion', 'doomed man'], 'related_entities': ['mr_utterson', 'dr_henry_jekyll'], 'file': 'memories/people/dr_lanyon.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 3, 'memory_strength': 0.634}```
+```{'name': 'Dr. Lanyon', 'aliases': [], 'type': 'human', 'role': "Rational doctor, witness to Jekyll's secret", 'strength': 'Medium', 'hard_cues': ['Jekyll', 'Utterson', 'shock', 'posthumous letter', 'unscientific balderdash'], 'soft_cues': ['Scientific dogma shattered by a terrible truth'], 'emotional_cues': ['deep-seated terror', 'revulsion'], 'related_entities': ['dr_henry_jekyll', 'mr_utterson'], 'file': 'memories/people/dr_lanyon.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 3, 'memory_strength': 0.634}```
+
+### Mr. Richard Enfield (human)
+- **File**: `memories/people/mr_richard_enfield.md`
+- **Strength**: Medium (Score: 0.634)
+```{'name': 'Mr. Richard Enfield', 'type': 'human', 'role': "Utterson's kinsman & companion", 'strength': 'Medium', 'hard_cues': ['Story of the Door', 'Incident at the Window', 'Queer Street', 'man about town'], 'soft_cues': ['Sunday walks ritual', 'paradoxical storyteller', 'ashamed of long tongue'], 'emotional_cues': ['visceral loathing for Hyde', 'witnessed abject terror', 'stunned silence'], 'related_entities': ['mr_gabriel_john_utterson', 'mr_hyde', 'dr_henry_jekyll'], 'file': 'memories/people/mr_richard_enfield.md', 'last_update': '2025-12-19 03:46:32 +0100', 'number_of_edits': 3, 'memory_strength': 0.634}```
 
 ### Poole (human)
 - **File**: `memories/people/poole.md`
 - **Strength**: Medium (Score: 0.634)
-```{'name': 'Poole', 'type': 'human', 'role': "Dr. Jekyll's loyal butler", 'strength': 'Medium', 'hard_cues': ['butler', 'Dr. Jekyll', 'Mr. Hyde', 'Mr. Utterson', 'key', 'orders', 'letter'], 'soft_cues': ['loyal servant', 'bearer of grim reports', 'doorstep informant'], 'emotional_cues': ['professional concern', 'growing unease'], 'related_entities': ['dr_henry_jekyll', 'mr_utterson', 'mr_hyde'], 'file': 'memories/people/poole.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 3, 'memory_strength': 0.634}```
+```{'name': 'Poole', 'type': 'human', 'role': "Jekyll's loyal butler & key witness", 'strength': 'Medium', 'hard_cues': ['butler', 'Jekyll', 'Utterson', 'Hyde', 'cabinet', 'foul play', 'axe', 'voice'], 'soft_cues': ["loyal servant's terror", 'instigates final search', 'breaks protocol'], 'emotional_cues': ['desperate loyalty', 'abject terror'], 'related_entities': ['henry_jekyll', 'utterson', 'edward_hyde'], 'file': 'memories/people/poole.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 3, 'memory_strength': 0.634}```
 
 ### Sir Danvers Carew (human)
 - **File**: `memories/people/sir_danvers_carew.md`
@@ -75,20 +85,10 @@ Total entities: 23
 - **Strength**: Low (Score: 0.511)
 ```{'name': 'Scientific Heresy', 'aliases': ['unscientific balderdash'], 'type': 'concept', 'role': "Jekyll & Lanyon's professional schism", 'strength': 'Low', 'hard_cues': ['Jekyll', 'Lanyon', 'unscientific balderdash', 'transcendental', 'metaphysical', 'estrangement'], 'soft_cues': ['hide-bound pedant', 'wrong in mind', 'fanciful work'], 'emotional_cues': ['profound agitation', 'anger', 'indignation'], 'related_entities': ['henry_jekyll', 'hastie_lanyon', 'edward_hyde'], 'file': 'memories/contexts/scientific_heresy.md', 'last_update': '2025-12-19 03:27:42 +0100', 'number_of_edits': 2, 'memory_strength': 0.511}```
 
-### The Story of the Door (concept)
-- **File**: `memories/contexts/the_story_of_the_door.md`
-- **Strength**: Medium (Score: 0.511)
-```{'name': 'The Story of the Door', 'type': 'concept', 'role': 'Narrative introducing Hyde, a sinister door, and the Jekyll blackmail theory.', 'strength': 'Medium', 'hard_cues': ['Enfield', 'Hyde', 'trampled girl', 'cheque', 'Jekyll', 'London', 'Incident at the Window'], 'soft_cues': ['sinister door', 'Queer Street', 'sordid negligence'], 'emotional_cues': ['inexplicable revulsion', 'abject terror'], 'related_entities': ['mr_hyde', 'mr_enfield', 'mr_utterson', 'dr_jekyll', 'dr_lanyon', 'poole'], 'file': 'memories/contexts/the_story_of_the_door.md', 'last_update': '2025-12-19 03:25:04 +0100', 'number_of_edits': 2, 'memory_strength': 0.511}```
-
 ### Mr. Guest (human)
 - **File**: `memories/people/mr_guest.md`
 - **Strength**: Low (Score: 0.511)
 ```{'name': 'Mr. Guest', 'type': 'human', 'role': 'Head Clerk & Handwriting Expert', 'strength': 'Low', 'hard_cues': ['handwriting analysis', 'Jekyll vs Hyde letter', 'singular resemblance', "Utterson's clerk"], 'soft_cues': ['discreet professional', 'man of counsel', 'analytical passion'], 'emotional_cues': ['professional trust'], 'related_entities': ['mr_utterson', 'dr_henry_jekyll', 'edward_hyde'], 'file': 'memories/people/mr_guest.md', 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 2, 'memory_strength': 0.511}```
-
-### Mr. Richard Enfield (human)
-- **File**: `memories/people/mr_richard_enfield.md`
-- **Strength**: Medium (Score: 0.511)
-```{'name': 'Mr. Richard Enfield', 'type': 'human', 'role': "Utterson's kinsman & companion", 'strength': 'Medium', 'hard_cues': ['Story of the Door', 'Incident at the Window', 'Queer Street', 'man about town'], 'soft_cues': ['Sunday walks ritual', 'paradoxical storyteller', 'ashamed of long tongue'], 'emotional_cues': ['visceral loathing for Hyde', 'witnessed abject terror', 'stunned silence'], 'related_entities': ['mr_gabriel_john_utterson', 'mr_hyde', 'dr_henry_jekyll'], 'file': 'memories/people/mr_richard_enfield.md', 'last_update': '2025-12-19 03:25:04 +0100', 'number_of_edits': 2, 'memory_strength': 0.511}```
 
 ### Hyde's Letter (document)
 - **File**: `memories/contexts/hyde's_letter.md`
@@ -105,18 +105,33 @@ Total entities: 23
 - **Strength**: Low (Score: 0.3)
 ```{'name': "Jekyll's Period of Peace", 'aliases': ["Jekyll's Resurgence", 'Two Months of Peace'], 'type': 'temporal_event', 'role': 'A temporary period of social and moral recovery for Dr. Jekyll.', 'strength': 'Low', 'hard_cues': ['two months', "Hyde's disappearance", 'January 8th dinner', 'renewed friendships', 'sudden seclusion', "Lanyon's shock"], 'soft_cues': ['new life', 'inward consciousness of service', 'face seemed to open and brighten', 'return to old ways'], 'emotional_cues': ['peace', 'hope', 'sociability', 'terror', 'despair', 'seclusion'], 'related_entities': ['dr_henry_jekyll', 'mr_gabriel_john_utterson', 'dr_hastie_lanyon', 'mr_hyde', 'sir_danvers_carew'], 'file': "memories/contexts/jekyll's_period_of_peace.md", 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 1, 'memory_strength': 0.3}```
 
-### Lanyon's Posthumous Narrative (document)
+### Lanyon's Posthumous Narrative (concept)
 - **File**: `memories/contexts/lanyon's_posthumous_narrative.md`
 - **Strength**: Low (Score: 0.3)
-```{'name': "Lanyon's Posthumous Narrative", 'aliases': ["Lanyon's letter", "Lanyon's packet"], 'type': 'document', 'role': "Sealed testimony explaining Lanyon's death & Jekyll's secret", 'strength': 'Low', 'hard_cues': ['Sealed packet', 'posthumous', 'Dr. Lanyon', "Utterson's safe", 'PRIVATE', 'destroy unread', 'death or disappearance of Dr. Henry Jekyll'], 'soft_cues': ['The right and wrong of this', 'a shock', 'cost me another friend', 'stringent obligations', 'professional honour'], 'emotional_cues': ['Dread', 'curiosity', 'fear', 'disquiet', 'suspense'], 'related_entities': ['dr_hastie_lanyon', 'mr_g_j_utterson', 'dr_henry_jekyll'], 'file': "memories/contexts/lanyon's_posthumous_narrative.md", 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 1, 'memory_strength': 0.3}```
+```{'name': "Lanyon's Posthumous Narrative", 'type': 'concept', 'role': "Sealed testimony explaining the shock that led to Lanyon's death.", 'strength': 'Low', 'hard_cues': ['sealed packet', 'deathbed letter', 'disappearance clause', "Jekyll's will", "Utterson's custody", 'shock'], 'soft_cues': ['professional honour vs dread', 'breaking the seals', 'a promise to the dead'], 'emotional_cues': ['dreadful suspense', 'horrified discovery', 'solemn obligation'], 'related_entities': ['hastie_lanyon', 'gabriel_john_utterson', 'henry_jekyll'], 'file': "memories/contexts/lanyon's_posthumous_narrative.md", 'last_update': '2025-12-19 03:43:18 +0100', 'number_of_edits': 1, 'memory_strength': 0.3}```
+
+### Incident at the Window (event)
+- **File**: `memories/events/2025-01-12_incident_at_the_window.md`
+- **Strength**: Low (Score: 0.3)
+```{'name': 'Incident at the Window', 'type': 'event', 'strength': 'Low', 'hard_cues': ['Jekyll at window', 'abject terror and despair', 'window slammed shut', 'Utterson and Enfield witness', 'Sunday walk', 'I dare not'], 'soft_cues': ['disconsolate prisoner', 'premature twilight', 'smile struck out', 'frozen blood', 'God forgive us'], 'emotional_cues': ['abject terror', 'despair', 'infinite sadness', 'horror', 'shock'], 'related_entities': ['dr_henry_jekyll', 'mr_utterson', 'mr_richard_enfield'], 'file': 'memories/events/2025-01-12_incident_at_the_window.md', 'last_update': '2025-12-19 03:46:32 +0100', 'number_of_edits': 1, 'memory_strength': 0.3}```
 
 ### Inspector Newcomen (human)
 - **File**: `memories/people/inspector_newcomen.md`
 - **Strength**: Low (Score: 0.3)
 ```{'name': 'Inspector Newcomen', 'aliases': ['The Officer'], 'type': 'human', 'role': 'Scotland Yard Inspector', 'strength': 'Low', 'hard_cues': ['Scotland Yard', 'Carew Murder', 'Soho investigation', 'broken cane', 'cheque book'], 'soft_cues': ['professional ambition', 'delighted by evidence', 'confident in capture'], 'emotional_cues': ['professional ambition', 'gratification', 'delight'], 'related_entities': ['mr_utterson', 'mr_hyde', 'sir_danvers_carew'], 'file': 'memories/people/inspector_newcomen.md', 'last_update': '2025-12-19 03:34:22 +0100', 'number_of_edits': 1, 'memory_strength': 0.3}```
 
-### Incident at the Window (event)
-- **File**: `memories/events/2025-01-12_incident_at_the_window.md`
+### Dr. Jekyll's Full Statement of the Case (document)
+- **File**: `memories/contexts/dr_jekylls_full_statement.md`
 - **Strength**: Low (Score: 0.03)
-```{'name': 'Incident at the Window', 'type': 'event', 'strength': 'Low', 'hard_cues': ['Jekyll at window', 'abject terror and despair', 'window slammed shut', 'Utterson and Enfield witness', 'Sunday walk', 'I dare not'], 'soft_cues': ['disconsolate prisoner', 'premature twilight', 'smile struck out', 'frozen blood', 'God forgive us'], 'emotional_cues': ['abject terror', 'despair', 'infinite sadness', 'horror', 'shock'], 'related_entities': ['dr_henry_jekyll', 'mr_utterson', 'mr_richard_enfield'], 'file': 'memories/events/2025-01-12_incident_at_the_window.md', 'last_update': 'Unknown', 'number_of_edits': 0, 'memory_strength': 0.03}```
+```{'name': "Dr. Jekyll's Full Statement of the Case", 'aliases': ["Jekyll's Confession", 'The Sealed Packet'], 'type': 'document', 'role': 'Posthumous explanation of the Jekyll-Hyde mystery', 'strength': 'Low', 'hard_cues': ['Confession', 'sealed packet', 'final narrative', 'discovered in cabinet', "after Lanyon's narrative"], 'soft_cues': ['unworthy and unhappy friend', 'save his credit', 'full explanation'], 'emotional_cues': ['despair', 'finality', 'confessional'], 'related_entities': ['dr_henry_jekyll', 'mr_utterson', 'mr_hyde', 'dr_lanyons_narrative', 'poole'], 'file': 'memories/contexts/dr_jekylls_full_statement.md', 'last_update': 'Unknown', 'number_of_edits': 0, 'memory_strength': 0.03}```
+
+### Search for the Pure Salt (event)
+- **File**: `memories/contexts/search_for_the_pure_salt.md`
+- **Strength**: Low (Score: 0.03)
+```{'name': 'Search for the Pure Salt', 'aliases': ["Jekyll's Desperate Search", 'The Impure Drug'], 'type': 'event', 'role': 'A frantic, week-long effort by Jekyll/Hyde to replicate a past chemical purchase.', 'strength': 'Low', 'hard_cues': ['pure salt', 'Messrs. Maw', 'impure sample', 'wholesale chemists', 'written orders', '18-- purchase', 'white salt heaps'], 'soft_cues': ['crying for medicine', 'bitter bad', 'expense no consideration', 'weeping like a lost soul', 'constant pacing'], 'emotional_cues': ['desperation', 'urgency', 'frustration', 'anguish', 'failure'], 'related_entities': ['dr_henry_jekyll', 'poole', 'mr_hyde', 'messrs_maw'], 'file': 'memories/contexts/search_for_the_pure_salt.md', 'last_update': 'Unknown', 'number_of_edits': 0, 'memory_strength': 0.03}```
+
+### The Last Night: The Break-in at Jekyll's Cabinet (event)
+- **File**: `memories/events/2025-03-10_the_last_night.md`
+- **Strength**: Low (Score: 0.03)
+```{'name': "The Last Night: The Break-in at Jekyll's Cabinet", 'type': 'event', 'date': '18--03-10', 'summary': "The final confrontation where Utterson and Poole break down the laboratory cabinet door, discovering Hyde's body and Jekyll's final letters.", 'participants': ['mr_utterson', 'poole', 'mr_hyde', 'dr_jekyll', 'bradshaw'], 'location': "dr_jekyll's_house", 'key_actions': ['break down door', 'search laboratory', 'find body', 'discover letters'], 'key_discoveries': ["Hyde's suicide", "Jekyll's absence", 'new will (Utterson as heir)', "Jekyll's final note", 'sealed confession'], 'emotional_cues': ['terror', 'suspense', 'desperation', 'horror', 'grim resolution'], 'related_entities': ['mr_utterson', 'poole', 'dr_henry_jekyll', 'mr_hyde', 'dr_hastie_lanyon'], 'file': 'memories/events/2025-03-10_the_last_night.md', 'last_update': 'Unknown', 'number_of_edits': 0, 'memory_strength': 0.03}```
 

@@ -1,17 +1,17 @@
-# 🧿 poole Integration System [Strength: Low]
-This file serves as the central entity for Poole, Dr. Jekyll's butler. It captures his initial role, observations, and relationship to the household based on a first encounter.
+# 🧿 poole Integration System [Strength: Medium]
+This file serves as the central entity for Poole, Dr. Jekyll's butler. It captures his role, observations, and relationship to the household, culminating in his desperate appeal to Mr. Utterson.
 
 /START
 ### 🌟 **Core Identity Mapping** [ALWAYS_LOAD] [Strength: Medium]
-*   **[Name]** Poole | **[Key Roles]** Butler, Servant | **[Key Traits]** Elderly, well-dressed, professional, loyal, discreet.
+*   **[Name]** Poole | **[Key Roles]** Butler, Servant, Investigator | **[Key Traits]** Elderly, professional, loyal, terrified, desperate, proactive.
     ↳ **Communication Style:** Respectful and formal ("sir"). Answers questions directly when addressed by a trusted visitor like Mr. Utterson.
 /END 🌟 **Core Identity Mapping**
 
 /START
 ### 🔗 **Relationship Dynamics** [Strength: Medium]
-*   **Dr. Henry Jekyll:** [Status: Master] Poole serves as Dr. Jekyll's butler. He is loyal and follows his master's instructions, even when they are unusual.
-*   **Mr. Utterson:** [Status: Regular Informant] While still a recognized visitor, Poole's primary interaction with Utterson shifts. He becomes Utterson's sole source of information about Dr. Jekyll's decline, delivering regular, grim reports from the doorstep as Jekyll refuses all visitors.
-*   **Mr. Hyde:** [Status: Figure of Authority] Poole is aware of Mr. Hyde's privileged status within the household. He confirms that Hyde has his own key and, critically, that all staff have "orders to obey him." Poole notes that Hyde's presence is confined to the laboratory side of the house and that he "never dines here."
+*   **Dr. Henry Jekyll:** [Status: Believed Murdered] After a week of terror, Poole becomes convinced his master has been murdered ("made away with"). His loyalty drives him to break protocol and force an entry into the cabinet to uncover the truth and avenge Jekyll.
+*   **Mr. Utterson:** [Status: Partner in Action] Overcome by terror, Poole goes to Utterson's home to plead for help, convinced of "foul play." He is no longer a passive informant but the instigator of the final investigation, acting as Utterson's guide and partner in breaking down the cabinet door.
+*   **Mr. Hyde:** [Status: Suspected Murderer & Imposter] Poole's perception shifts entirely. He believes the person locked in the cabinet is Hyde, who has murdered Dr. Jekyll. He identifies the figure he briefly saw as Hyde based on its small stature ("more of a dwarf") and quick movements, and recognizes Hyde's voice from behind the door.
 /END 🔗 **Relationship Dynamics**
 
 /START
@@ -26,9 +26,16 @@ This file serves as the central entity for Poole, Dr. Jekyll's butler. It captur
 
     ↳ **Bearer of Bad News:** Following a brief social resurgence by Dr. Jekyll, Poole becomes the sole point of contact for Mr. Utterson, repeatedly informing him that the doctor is "confined to the house" and will see no one.
     ↳ **Reporting on Seclusion:** Provides consistent updates to Utterson on Dr. Jekyll's worsening state of self-isolation. He reports that the doctor now confines himself almost exclusively to the cabinet above the laboratory (sometimes even sleeping there), is "out of spirits," has "grown very silent," and no longer reads, appearing to have "something on his mind."
+
+    ↳ **The Final Night: The Assault on the Cabinet:** Overcome by a week of fear, Poole takes decisive action.
+        *   **Instigates Action:** Goes to Utterson's home, declaring "I'm afraid" and "I think there's been foul play," convincing the lawyer to intervene.
+        *   **Key Evidence:** Reports that the voice from the cabinet is not Jekyll's, that he heard the occupant "weeping like a woman or a lost soul," and that the person is desperately sending him to chemists for a "pure" drug.
+        *   **Visual Sighting:** Recounts seeing a small, dwarf-like figure in a mask, whom he identifies as Hyde, scuttling back into the cabinet.
+        *   **Leads the Charge:** Takes command of the terrified servants, suggests using an axe, and personally breaks down the cabinet door at Utterson's command.
+        *   **Core Belief:** Firmly believes Jekyll was murdered a week prior and that Hyde is the culprit, stating "that thing was not my master" and "it is the belief of my heart that there was murder done."
 /END ⚖️ **Professional Context**
 
-{"id":"poole","type":"person","keywords":["butler","jekyll","servant","hyde","key","orders","letter","messenger","elderly","seclusion","confined","cabinet","reports"],"strength":"Low"}
+{"id":"poole","type":"person","keywords":["butler","jekyll","servant","hyde","key","orders","letter","seclusion","cabinet","reports","foul play","terror","murder","axe","mask","dwarf","voice","weeping"],"strength":"Medium"}
 
 ## SEMANTIC INDEX
-{"name":"Poole","type":"human","role":"Dr. Jekyll's loyal butler","strength":"Medium","hard_cues":["butler","Dr. Jekyll","Mr. Hyde","Mr. Utterson","key","orders","letter"],"soft_cues":["loyal servant","bearer of grim reports","doorstep informant"],"emotional_cues":["professional concern","growing unease"],"related_entities":["dr_henry_jekyll","mr_utterson","mr_hyde"],"file":"memories/people/poole.md"}
+{"name":"Poole","type":"human","role":"Jekyll's loyal butler & key witness","strength":"Medium","hard_cues":["butler","Jekyll","Utterson","Hyde","cabinet","foul play","axe","voice"],"soft_cues":["loyal servant's terror","instigates final search","breaks protocol"],"emotional_cues":["desperate loyalty","abject terror"],"related_entities":["henry_jekyll","utterson","edward_hyde"],"file":"memories/people/poole.md"}

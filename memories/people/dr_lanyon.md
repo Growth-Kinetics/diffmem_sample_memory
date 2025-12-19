@@ -33,7 +33,7 @@ This file serves as the central entity for Dr. Lanyon, a prominent London doctor
 *   **Mid-January (after the 15th):** Visited by Utterson. Lanyon's appearance is drastically altered. He has his "death-warrant written legibly upon his face," suffering from a "deep-seated terror of the mind."
 *   **The Shock:** Lanyon states, "I have had a shock... and I shall never recover." This event is the direct cause of his fatal decline and the final severing of his relationship with Jekyll.
 *   **Death:** Dies less than a fortnight after his conversation with Utterson.
-*   **Posthumous Letter:** Leaves a letter for Utterson containing a second sealed enclosure, marked "not to be opened till the death or disappearance of Dr. Henry Jekyll," ensuring his testimony will eventually be revealed.
+*   **Posthumous Letter:** Leaves a letter for Utterson, to be opened upon the death or disappearance of Dr. Jekyll. This narrative is revealed to be the first key to the mystery, as Jekyll's final note to Utterson explicitly instructs him to "first read the narrative which Lanyon... was to place in your hands" before reading Jekyll's own confession.
 /END ⏳ **Timeline & Key Events**
 
 /START
@@ -52,4 +52,4 @@ This file serves as the central entity for Dr. Lanyon, a prominent London doctor
 {"id":"dr_lanyon","type":"person","keywords":["doctor","lanyon","cavendish square","jekyll","shock","death-warrant","doomed","posthumous letter","terror"],"strength":"High"}
 
 ## SEMANTIC INDEX
-{"name":"Dr. Lanyon","type":"human","role":"Rationalist doctor, doomed by Jekyll's secret","strength":"Medium","hard_cues":["doctor","Cavendish Square","shock","posthumous letter","rationalist","death-warrant"],"soft_cues":["hearty to horrified","scientific dogma","citadel of medicine"],"emotional_cues":["deep-seated terror","revulsion","doomed man"],"related_entities":["mr_utterson","dr_henry_jekyll"],"file":"memories/people/dr_lanyon.md"}
+{"name":"Dr. Lanyon","aliases":[],"type":"human","role":"Rational doctor, witness to Jekyll's secret","strength":"Medium","hard_cues":["Jekyll","Utterson","shock","posthumous letter","unscientific balderdash"],"soft_cues":["Scientific dogma shattered by a terrible truth"],"emotional_cues":["deep-seated terror","revulsion"],"related_entities":["dr_henry_jekyll","mr_utterson"],"file":"memories/people/dr_lanyon.md"}
